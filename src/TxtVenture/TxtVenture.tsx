@@ -20,6 +20,7 @@ export interface TxtCommandEvent {
 export interface TxtVentureState {
   command: TxtCommand;
   commandStack: TxtCommand[];
+  commandCount: number;
 }
 
 export class TxtVentureProps {
@@ -28,6 +29,7 @@ export class TxtVentureProps {
   commandStackLength: number = 10;
   component: TxtVenture | undefined;
   standardResponse: string = "Hä?";
+  and: string = " und ";
 
   objects: Map<string, TxtObjectProps> = new Map();
   setObjects(objects: TxtObjectProps[]) {
@@ -108,6 +110,7 @@ export class TxtVenture extends React.Component<Props, TxtVentureState> {
         objectIds: [],
         response: "",
       },
+      commandCount: 0,
       commandStack: [],
     };
     this.onActionClick = this.onActionClick.bind(this);
@@ -183,8 +186,11 @@ export class TxtVenture extends React.Component<Props, TxtVentureState> {
         let action = this.txt.getAction(command.actionId);
         if (action !== undefined)
           prep = action.preposition;
-      } else if (index > 1 && array.length > 2) {
-        prep = " und ";
+        else
+          prep = this.txt.and;
+
+      } else if (index > 0 && array.length > index + 1) {
+        prep = this.txt.and;
       }
 
       if (object !== undefined)
@@ -249,7 +255,7 @@ export class TxtVenture extends React.Component<Props, TxtVentureState> {
       let copy: TxtCommand = {
         actionId: command.actionId,
         objectIds: command.objectIds.slice(),
-        id: state.commandStack.length + 1,
+        id: command.id,
         response: command.response,
       }
       state.commandStack.push(copy);
@@ -342,6 +348,8 @@ export class TxtVenture extends React.Component<Props, TxtVentureState> {
         state.command.objectIds = [];
         state.command.actionId = "";
         state.command.response = "";
+        state.commandCount++;
+        state.command.id = state.commandCount;
       }
       return state;
     });

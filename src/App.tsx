@@ -47,7 +47,7 @@ txt.setActions([
   {
     id: "use",
     title: "Benutze",
-    maxObjectLength: 2,
+    maxObjectLength: 4,
     preposition: "mit",
   },
   {
@@ -70,6 +70,18 @@ txt.setObjects([
     text: () => { return "dreckiger Krug"; },
     onCommand: (event: TxtCommandEvent) => {
       console.log("command on dirty-mug: " + JSON.stringify(event))
+    }
+  }, {
+    id: "jail-window",
+    text: () => { return "Fenster"; },
+    onCommand: (event: TxtCommandEvent) => {
+      console.log("command on jail-window: " + JSON.stringify(event))
+    },
+  }, {
+    id: "rat",
+    text: () => { return "Ratte"; },
+    onCommand: (event: TxtCommandEvent) => {
+      console.log("command on rat: " + JSON.stringify(event))
     },
   }
 ]);
@@ -83,7 +95,10 @@ txt.setScenes([
         Du erwachst in einer Gefängniszelle.
         Deine Pritsche ist hart und ungemütlich.
         Ein {txt.getObject("jail-bars")} versperrt dir den Ausgang.<br />
-        Neben deiner Pritsche steht ein {txt.getObject("dirty-mug")}.<br />
+        Neben deiner Pritsche steht ein {txt.getObject("dirty-mug")}.
+        Irgendwo in der Ecke hörst du eine {txt.getObject("rat")} rascheln.
+        Durch das {txt.getObject("jail-window")} kannst du ein kleinen Teil des Himmels sehen.
+        <br />
         <br />
         Was möchtest du tun?
       </p>)
