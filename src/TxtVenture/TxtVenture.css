@@ -1,0 +1,63 @@
+.TxtVenture {        
+    position: fixed;
+    top: 2%;
+    bottom: 2%;
+    left: 2%;
+    right: 2%;
+    padding: 1em;
+    background: #f7f7f7;
+    text-align: justify;    
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    border: 1px solid #9e9a9a;
+    user-select: none;    
+}
+
+.TxtVenture h1 {
+    display: block;
+    height: 2rem;
+    font-size: 2.0em;
+    margin-block-start: 0.0em;
+    margin-block-end: 0.0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.TxtVenture .TxtInventory {
+    position: absolute;
+    display: inline-block;
+    left: 70%;
+    width: calc(30% - 1.0em);
+    height: 30em;
+    padding: 1em;
+}
+
+
+
+.TxtVenture .TxtConsole {
+    position: absolute;    
+    display: block;
+    top: 36em;
+    bottom: 1em;
+    width: calc(100% - 2em);
+    overflow-y: auto;
+}
+
+.TxtVenture .Error {
+    color: tomato;
+    text-decoration: underline;
+    cursor: not-allowed;
+}
+
+.TxtVenture .TxtCommand {
+    min-height: 1em;
+}
+
+.TxtPrompt {
+    display: inline;
+}
+
+.TxtCommand {  
+    margin-bottom: 0.5em;
+}

@@ -1,0 +1,9 @@
+.TxtScene {        
+    position: absolute;
+    display: inline-block;
+    width: calc(70% - 1.0em);
+    height: 30em;
+    overflow-y: auto;
+    padding: 1em; 
+}
+

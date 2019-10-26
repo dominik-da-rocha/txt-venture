@@ -1,0 +1,35 @@
+.TxtAction {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;    
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-right: 5px;
+    cursor: pointer;
+    border:  1px #a0a0a0 solid;
+    width: 6em;
+    height: 2.5em;
+    box-sizing: border-box;
+}
+
+.TxtAction:hover {   
+    color: #1f46b1;
+    border:  2px #1f46b1 solid;
+    font-weight: bold;
+}
+
+.TxtAction:active {   
+    background: rgb(31, 70, 177);
+    color: white;
+    border:  1px white solid;
+}
+
+.TxtVenture .TxtActions {
+    position: absolute;    
+    display: flex;
+    justify-content: left;
+    flex-flow: row;
+    top: 33em;
+    width:  calc(100% - 2em);
+}
