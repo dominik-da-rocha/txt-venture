@@ -1,5 +1,8 @@
-.$Component {        
-    display: inline-block;
-    background: green;
+.TxtCommand {  
+    margin-bottom: 0.5em;
+    min-height: 1em;
 }
 
+.TxtPrompt {
+    display: inline;
+}

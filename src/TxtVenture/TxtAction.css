@@ -22,7 +22,7 @@
 .TxtAction:active {   
     background: rgb(31, 70, 177);
     color: white;
-    border:  1px white solid;
+    border:  2px white solid;
 }
 
 .TxtVenture .TxtActions {

@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import $Component from "./$Component";
+import TxtConsole from "./TxtConsole";
 
 it("renders without crashing", () => {
   const div = document.createElement("div");
-  ReactDOM.render(<$Component />, div);
+  ReactDOM.render(<TxtConsole />, div);
   ReactDOM.unmountComponentAtNode(div);
 });

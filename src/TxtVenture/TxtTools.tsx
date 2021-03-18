@@ -1,8 +1,12 @@
+import TxtVenture from "./TxtVenture";
 
-export interface Identifiable {
-    id: string,
+export interface Stringable {
+    toString(): string;
 }
 
+export interface Identifiable<T extends Stringable> {
+    id: T;
+}
 
 export class TxtTools {
 

@@ -1,5 +1,10 @@
-.$Component {        
-    display: inline-block;
-    background: green;
+.TxtConsole {
+    position: absolute;    
+    display: block;
+    top: 36em;
+    bottom: 1em;
+    width: calc(100% - 2em);
+    overflow-y: auto;
 }
+
 

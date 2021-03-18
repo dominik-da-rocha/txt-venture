@@ -7,7 +7,7 @@
     padding: 1em;
     background: #f7f7f7;
     text-align: justify;    
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Source Code Pro", "Consolas", monospace;
     box-sizing: border-box;
     border: 1px solid #9e9a9a;
     user-select: none;    
@@ -24,40 +24,9 @@
     font-weight: bold;
 }
 
-.TxtVenture .TxtInventory {
-    position: absolute;
-    display: inline-block;
-    left: 70%;
-    width: calc(30% - 1.0em);
-    height: 30em;
-    padding: 1em;
-}
-
-
-
-.TxtVenture .TxtConsole {
-    position: absolute;    
-    display: block;
-    top: 36em;
-    bottom: 1em;
-    width: calc(100% - 2em);
-    overflow-y: auto;
-}
-
 .TxtVenture .Error {
     color: tomato;
     text-decoration: underline;
     cursor: not-allowed;
 }
 
-.TxtVenture .TxtCommand {
-    min-height: 1em;
-}
-
-.TxtPrompt {
-    display: inline;
-}
-
-.TxtCommand {  
-    margin-bottom: 0.5em;
-}

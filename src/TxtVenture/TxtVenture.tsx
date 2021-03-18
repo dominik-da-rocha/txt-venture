@@ -1,207 +1,245 @@
 import "./TxtVenture.css";
 import React from "react";
 import TxtScene, { TxtSceneProps } from "./TxtScene";
-import TxtObject, { TxtObjectProps } from "./TxtObject";
+import TxtObject, { TxtObjectProps, TxtVentureObjectInterface, TxtObjectPool } from "./TxtObject";
+import TxtAction, { TxtActionProps, TxtActionId, parseTxtActionId, TxtActionEvent, handleTxtActionEvent } from "./TxtAction";
+import { TxtCommandProps, makeCopyOfTxtCommandProps, TxtVentureCommandInterface } from "./TxtCommand";
+import TxtConsole, { TxtConsoleProps } from "./TxtConsole";
 import { Identifiable } from "./TxtTools";
-import TxtAction, { TxtActionProps } from "./TxtAction";
+import TxtInventory, { TxtInventoryProps } from "./TxtInventory";
 
-export interface TxtCommand {
-  id: string | number | undefined;
-  actionId: string;
-  objectIds: string[];
-  response: string;
-}
+export class TxtVentureProps<TxtObjectId, TxtSceneId>
+  implements TxtVentureCommandInterface<TxtObjectId>, TxtObjectPool<TxtObjectId> {
 
-export interface TxtCommandEvent {
-  command: TxtCommand;
-  handled: boolean;
-}
-
-export interface TxtVentureState {
-  command: TxtCommand;
-  commandStack: TxtCommand[];
-  commandCount: number;
-}
-
-export class TxtVentureProps {
   id: string = "";
   title: string = "";
-  commandStackLength: number = 10;
-  component: TxtVenture | undefined;
-  standardResponse: string = "Hä?";
-  and: string = " und ";
 
-  objects: Map<string, TxtObjectProps> = new Map();
-  setObjects(objects: TxtObjectProps[]) {
-    this.objects = TxtVentureProps.makeMap(objects);
-  }
-  getObject(id: string): React.ReactNode {
-    let object = this.objects.get(id);
-    if (object === undefined)
-      return <span className="Error">[error: object not found {id}]</span>
-    else
-      return <TxtObject
-        id={object.id}
-        text={object.text}
-        onClick={this.getObjectOnClick()} />;
+  console = {
+    stackSize: 10,
+    prompt: "->",
+    responseIndent: 4,
   }
 
-  getObjectOnClick(): ((event: React.MouseEvent<HTMLElement, MouseEvent>) => void) | undefined {
-    if (this.component === undefined)
+  private standardResponses: string[] = ["What?"];
+  setStandardResponse(responses: string[]) {
+    this.standardResponses = responses;
+  }
+  getStandardResponse(): string {
+    let rand = Math.floor(Math.random() * this.standardResponses.length);
+    return this.standardResponses[rand];
+  };
+
+  private andText: string = " und ";
+  setAndText(and: string) {
+    this.andText = " " + and.trim() + " ";
+  }
+  getAndText() { return this.andText; }
+
+  private objects: Map<TxtObjectId, TxtObjectProps<TxtObjectId>> = new Map();
+  setObjects(array: TxtObjectProps<TxtObjectId>[]) {
+    this.objects = this.makeMapFromIdentifiableArray(array);
+  }
+  getObjectProps(id: TxtObjectId): TxtObjectProps<TxtObjectId> | undefined {
+    return this.objects.get(id);
+  }
+
+  private scene!: TxtSceneId;
+  setScene(scene: TxtSceneId) {
+    this.scene = scene;
+  }
+  getScene() {
+    return this.scene;
+  }
+
+  private scenes: Map<TxtSceneId, TxtSceneProps<TxtObjectId, TxtSceneId>> = new Map();
+  setScenes(array: TxtSceneProps<TxtObjectId, TxtSceneId>[]) {
+    this.scenes = this.makeMapFromIdentifiableArray(array);
+    this.scenes.forEach((scene: TxtSceneProps<TxtObjectId, TxtSceneId>) => {
+      scene.updateOwner(this);
+    });
+  }
+
+  getSceneProps(id?: TxtSceneId): TxtSceneProps<TxtObjectId, TxtSceneId> | undefined {
+    if (id === undefined)
+      id = this.scene;
+
+    let scene = this.scenes.get(id);
+    if (scene === undefined)
       return undefined;
     else
-      return this.component.onObjectClick;
+      return scene;
   }
+  renderScene(txt: TxtVentureRenderObject<TxtObjectId>, id?: TxtSceneId): React.ReactNode {
+    if (id === undefined)
+      id = this.scene;
 
-  scenes: Map<string, TxtSceneProps> = new Map();
-  scene: string = "";
-  setScenes(scenes: TxtSceneProps[]) {
-    this.scenes = TxtVentureProps.makeMap(scenes);
-  }
-  getScene(id: string): React.ReactNode {
     let scene = this.scenes.get(id);
     if (scene === undefined)
       return <p>e: scene not found:{id}</p>
     else
-      return <TxtScene
-        id={scene.id}
-        title={scene.title}
-        text={scene.text} />;
+      return <TxtScene scene={scene} txt={txt} />;
   }
 
-  actions: TxtActionProps[] = [];
+  private actions: TxtActionProps[] = [];
   setActions(actions: TxtActionProps[]) {
     this.actions = actions;
   }
-  getAction(actionId: string) {
+  getActions() {
+    return this.actions;
+  }
+  getActionProps(actionId: TxtActionId): TxtActionProps | undefined {
     let action = this.actions.find((action: TxtActionProps) => {
       return action.id === actionId;
     })
     return action;
   }
 
+  private inventory: TxtInventoryProps<TxtObjectId> = new TxtInventoryProps();
+  setInventory(inventory: TxtObjectId[]) {
+    this.inventory.objectIds = inventory;
+    this.inventory.updateOwner(this);
+  }
+  getInventory() {
+    return this.inventory;
+  }
 
-  private static makeMap<T extends Identifiable>(array: T[]): Map<string, T> {
-    let map = new Map<string, T>();
-    array.forEach(element => {
-      map.set(element.id, element);
-    });
+
+  private makeMapFromIdentifiableArray<TId, TItem extends Identifiable<TId>>(array: TItem[]): Map<TId, TItem> {
+    let map = new Map<TId, TItem>();
+    array.forEach(element => { map.set(element.id, element); });
     return map;
   }
 }
 
-interface Props {
-  txt: TxtVentureProps;
+export interface TxtVentureRenderObject<TxtObjectId> {
+  renderObject(objectId: TxtObjectId): React.ReactNode;
 }
 
 
-export class TxtVenture extends React.Component<Props, TxtVentureState> {
+interface Props<TxtObjectId, TxtSceneId> {
+  txt: TxtVentureProps<TxtObjectId, TxtSceneId>;
+}
 
-  txt: TxtVentureProps;
+interface State<TxtObjectId> {
+  command: TxtCommandProps<TxtObjectId>;
+  console: TxtConsoleProps<TxtObjectId>;
+  inventory: TxtInventoryProps<TxtObjectId>
+}
 
-  constructor(props: Props) {
+function getCommandId(no: number) {
+  return "command" + no;
+}
+
+export class TxtVenture<TxtObjectId, TxtSceneId>
+  extends React.Component<Props<TxtObjectId, TxtSceneId>, State<TxtObjectId>>
+  implements TxtVentureObjectInterface<TxtObjectId>, TxtVentureRenderObject<TxtObjectId> {
+
+  constructor(props: Props<TxtObjectId, TxtSceneId>) {
     super(props);
-    this.txt = props.txt;
-    this.txt.component = this;
     this.state = {
       command: {
-        id: 0,
-        actionId: "",
+        id: getCommandId(0),
+        actionId: TxtActionId.none,
         objectIds: [],
         response: "",
       },
-      commandCount: 0,
-      commandStack: [],
+      console: {
+        stack: [],
+        commandCounter: 0,
+        prompt: this.props.txt.console.prompt,
+        responseIndent: this.props.txt.console.responseIndent,
+      },
+      inventory: this.props.txt.getInventory(),
     };
-    this.onActionClick = this.onActionClick.bind(this);
-    this.onObjectClick = this.onObjectClick.bind(this);
-    this.onBackgroundClick = this.onBackgroundClick.bind(this);
+    this.handleActionClick = this.handleActionClick.bind(this);
+    this.handleBackgroundClick = this.handleBackgroundClick.bind(this);
   }
 
   render() {
-    return (
-      <div className="TxtVenture" onClick={this.onBackgroundClick}>
-        <h1>{this.txt.title}</h1>
-        {this.renderScene()}
-        <div className="TxtInventory">
-          <h2>TxtInventory</h2>
-          <ul>
-            <li>Item 1</li>
-            <li>Item 2</li>
-            <li>Item 3</li>
-            <li>Item 4</li>
-            <li>Item 5</li>
-            <li>Item 6</li>
-            <li>Item 7</li>
-          </ul>
-        </div>
-        {this.renderActions()}
-        {this.renderConsole()}
-      </div >
-    );
+    return <div className="TxtVenture" onClick={this.handleBackgroundClick}>
+      <h1>{this.props.txt.title}</h1>
+      {this.renderScene()}
+      {this.renderInventory()}
+      {this.renderActions()}
+      {this.renderConsole()}
+    </div >
   }
-  renderConsole(): React.ReactNode {
-    return (<div className="TxtConsole">
-      {this.renderCommand("/> ", this.state.command)}
-      {this.state.commandStack.slice(0).reverse().map((command: TxtCommand) => {
-        return this.renderCommand("- ", command);
+
+  renderActions(): React.ReactNode {
+    return (<div className="TxtActions">
+      {this.props.txt.getActions().map((action: TxtActionProps) => {
+        action.onClick = this.handleActionClick;
+        return <TxtAction key={action.id} action={action} />;
       })}
     </div>);
   }
-  renderCommand(prompt: string, command: TxtCommand): React.ReactNode {
-    return <div className="TxtCommand" key={"commandId_" + command.id}>
-      <div>
-        <pre className="TxtPrompt">{prompt}</pre>
-        {this.renderCommandAction(command)}
-        {this.renderCommandObjects(command)}
-      </div>
-      {this.renderCommandResponse(command)}
-    </div>;
+
+  renderScene(): React.ReactNode {
+    return this.props.txt.renderScene(this);
   }
 
-  renderCommandResponse(command: TxtCommand): React.ReactNode {
-    if (command.response !== "") {
-      return (
-        <div className="TxtCommandResponse">
-          <pre className="TxtPrompt">    </pre>
-          <span>{command.response}</span>
-        </div>)
-    }
+  renderObject(id: TxtObjectId): React.ReactNode {
+
+    let object = this.props.txt.getObjectProps(id);
+    if (object === undefined)
+      return <span className="Error">[error: object not found {id}]</span>
     else {
-      return undefined;
+      return <TxtObject object={object} txt={this} />
     }
   }
 
-  renderCommandAction(command: TxtCommand): React.ReactNode {
-    let action = this.txt.getAction(command.actionId);
-    let actionTitle = action === undefined ? "" : action.title;
-    return <span>{actionTitle} </span>;
+  renderInventory(): React.ReactNode {
+    return <TxtInventory
+      inventory={this.state.inventory}
+      txt={this} />
   }
 
-  renderCommandObjects(command: TxtCommand) {
-    let objects = command.objectIds.map((objectId: string, index: number, array: string[]) => {
-      let object = this.txt.objects.get(objectId);
-      let prep = "";
-      if (index === 0 && array.length > 1) {
-        let action = this.txt.getAction(command.actionId);
-        if (action !== undefined)
-          prep = action.preposition;
-        else
-          prep = this.txt.and;
+  renderConsole(): React.ReactNode {
+    return <TxtConsole
+      txt={this.props.txt}
+      command={this.state.command}
+      console={this.state.console}
+    />;
+  }
 
-      } else if (index > 0 && array.length > index + 1) {
-        prep = this.txt.and;
+  handleActionClick(event: React.MouseEvent<HTMLElement, MouseEvent>) {
+    let actionId = parseTxtActionId(event.currentTarget.id)
+    this.setCommandActionId(actionId);
+    event.stopPropagation();
+  }
+  setCommandActionId(actionId: TxtActionId) {
+    this.setState((state: State<TxtObjectId>) => {
+      let hasChanged = state.command.actionId !== actionId;
+      if (hasChanged) {
+        state.command.actionId = actionId;
+        this.evalCommand({
+          command: state.command,
+          handled: false,
+          objectPool: this.props.txt
+        });
       }
-
-      if (object !== undefined)
-        return <span key={object.id}>{object.text()} {prep} </span>
-      else
-        return undefined;
+      return state;
     });
-    return objects;
   }
 
-  evalCommand(event: TxtCommandEvent) {
+  setCommandObjectId(objectId: TxtObjectId) {
+    this.setState((state: State<TxtObjectId>) => {
+      let hasChanged = !state.command.objectIds.some((element: TxtObjectId) => {
+        return element === objectId;
+      });
+      if (hasChanged) {
+        state.command.objectIds.push(objectId);
+        this.evalCommand({
+          command: state.command,
+          handled: false,
+          objectPool: this.props.txt,
+        });
+      }
+      return state;
+    });
+  }
+
+  evalCommand(event: TxtActionEvent<TxtObjectId>) {
     setTimeout(() => {
       this.evalCommandOnScene(event);
       this.evalCommandOnObject(event);
@@ -210,155 +248,72 @@ export class TxtVenture extends React.Component<Props, TxtVentureState> {
     }, 10);
   }
 
-  evalCommandOnObject(event: TxtCommandEvent) {
+  evalCommandOnObject(event: TxtActionEvent<TxtObjectId>) {
     if (!event.handled) {
-      event.command.objectIds.some((objectId: string) => {
-        let object = this.txt.objects.get(objectId);
-        if (object !== undefined && object.onCommand !== undefined) {
-          object.onCommand(event);
-        }
+      event.command.objectIds.some((objectId: TxtObjectId) => {
+        let object = this.props.txt.getObjectProps(objectId);
+        handleTxtActionEvent(object, event);
         return event.handled;
-
       });
     }
   }
 
-  evalCommandOnScene(event: TxtCommandEvent) {
+  evalCommandOnScene(event: TxtActionEvent<TxtObjectId>) {
     if (!event.handled) {
-      let scene = this.txt.scenes.get(this.txt.scene);
-      if (scene !== undefined && scene.onCommand !== undefined) {
-        scene.onCommand(event);
-      }
+      let scene = this.props.txt.getSceneProps();
+      handleTxtActionEvent(scene, event);
     }
   }
 
-  evalCommandOnAction(event: TxtCommandEvent) {
+  evalCommandOnAction(event: TxtActionEvent<TxtObjectId>) {
     if (!event.handled) {
-      let action = this.txt.getAction(event.command.actionId);
-      if (action !== undefined && action.maxObjectLength === event.command.objectIds.length) {
+      let action = this.props.txt.getActionProps(event.command.actionId);
+      if (action !== undefined && action.targetObjectCount <= event.command.objectIds.length) {
         event.handled = true;
         if (event.command.response === "")
-          event.command.response = this.txt.standardResponse;
+          event.command.response = this.props.txt.getStandardResponse();
       }
     }
   }
 
-  finalizeCommand(event: TxtCommandEvent) {
+  finalizeCommand(event: TxtActionEvent<TxtObjectId>) {
     if (event.handled) {
       this.pushCommandToStack(event.command);
       this.clearCommand();
     }
   }
 
-  pushCommandToStack(command: TxtCommand) {
-    this.setState((state: TxtVentureState) => {
-      let copy: TxtCommand = {
-        actionId: command.actionId,
-        objectIds: command.objectIds.slice(),
-        id: command.id,
-        response: command.response,
-      }
-      state.commandStack.push(copy);
-      if (state.commandStack.length > this.txt.commandStackLength) {
-        state.commandStack.shift();
+  pushCommandToStack(command: TxtCommandProps<TxtObjectId>) {
+    this.setState((state: State<TxtObjectId>) => {
+      let copy = makeCopyOfTxtCommandProps(command);
+      state.console.stack.push(copy);
+      if (state.console.stack.length > this.props.txt.console.stackSize) {
+        state.console.stack.shift();
       }
       return state;
     });
   }
 
-
-  renderActions(): React.ReactNode {
-    return (<div className="TxtActions">
-      {this.txt.actions.map((action: TxtActionProps) => {
-        return <TxtAction
-          key={action.id}
-          id={action.id}
-          maxObjectLength={action.maxObjectLength}
-          title={action.title}
-          preposition={action.preposition}
-          onClick={this.onActionClick} />;
-      })}
-    </div>);
-  }
-
-  renderScene(): React.ReactNode {
-    let scene = this.getScene();
-    return (
-      <TxtScene
-        id={scene.id}
-        title={scene.title}
-        text={scene.text}>
-      </TxtScene>
-    );
-  }
-
-  getScene(): TxtSceneProps {
-    let scene = this.txt.scenes.get(this.txt.scene);
-    if (scene === undefined) {
-      scene = {
-        id: "NotFound",
-        title: "Scene not found: " + this.txt.scene,
-        text: function (): string { return ""; }
-      }
-    }
-    return scene;
-  }
-
-  onActionClick(event: React.MouseEvent<HTMLElement, MouseEvent>) {
-    this.setActionId(event.currentTarget.id);
-    event.stopPropagation();
-  }
-  setActionId(actionId: string) {
-    this.setState((state: TxtVentureState) => {
-      let hasChanged = state.command.actionId !== actionId;
-      if (hasChanged) {
-        state.command.actionId = actionId;
-        this.evalCommand({ command: state.command, handled: false });
-      }
-      return state;
-    });
-  }
-
-  onObjectClick(event: React.MouseEvent<HTMLElement, MouseEvent>) {
-    this.setObjectId(event.currentTarget.id);
-    event.stopPropagation();
-  }
-  setObjectId(objectId: string) {
-    this.setState((state: TxtVentureState) => {
-      let hasChanged = !state.command.objectIds.some((element: string) => {
-        return element === objectId;
-      });
-      if (hasChanged) {
-        state.command.objectIds.push(objectId);
-        this.evalCommand({ command: state.command, handled: false });
-      }
-      return state;
-    });
-  }
-  onBackgroundClick(event: React.MouseEvent<HTMLElement, MouseEvent>) {
+  handleBackgroundClick(event: React.MouseEvent<HTMLElement, MouseEvent>) {
     this.clearCommand();
   }
+
   clearCommand() {
-    this.setState((state: TxtVentureState) => {
+    this.setState((state: State<TxtObjectId>) => {
       let hasChanged =
         state.command.objectIds.length > 0
-        || state.command.actionId !== "";
+        || state.command.actionId !== TxtActionId.none;
 
       if (hasChanged) {
         state.command.objectIds = [];
-        state.command.actionId = "";
+        state.command.actionId = TxtActionId.none;
         state.command.response = "";
-        state.commandCount++;
-        state.command.id = state.commandCount;
+        state.console.commandCounter++;
+        state.command.id = getCommandId(state.console.commandCounter);
       }
       return state;
     });
   }
-
-
-
-
-
 }
 
 export default TxtVenture;
