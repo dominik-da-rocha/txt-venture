@@ -1,18 +1,19 @@
 import "./$Component.css";
 import React from "react";
+import Component, { ComponentProps, ComponentState } from "./Component";
 
-export interface $ComponentState { }
+export interface $ComponentProps extends ComponentProps { }
 
-export interface $ComponentProps { }
+export interface $ComponentState extends ComponentState { }
 
-export class $Component extends React.Component<$ComponentProps, $ComponentState> {
+export class $Component extends Component<$ComponentProps, $ComponentState> {
   constructor(props: $ComponentProps) {
     super(props);
     this.state = {};
   }
 
   render() {
-    return <div className="$Component">
+    return <div id={this.props.id} className={this.className()}>
       {this.props.children}
     </div>;
   }
