@@ -1,0 +1,123 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ModalDialog renders no cancel callback 1`] = `
+<div
+  className="Component ModalDialog"
+  id="test"
+>
+  <div
+    className="Dialog"
+  >
+    <div
+      className="Header"
+    >
+      <span>
+        Title
+      </span>
+      <span
+        className="X"
+        id="test-x"
+      >
+        X
+      </span>
+    </div>
+    <div
+      className="Content"
+    />
+    <div
+      className="Footer"
+    >
+      <button
+        id="test-okay"
+        onClick={[Function]}
+      >
+        Okay
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ModalDialog renders no okay callback 1`] = `
+<div
+  className="Component ModalDialog"
+  id="test"
+>
+  <div
+    className="Dialog"
+  >
+    <div
+      className="Header"
+    >
+      <span>
+        Title
+      </span>
+      <span
+        className="X"
+        id="test-x"
+        onClick={[Function]}
+      >
+        X
+      </span>
+    </div>
+    <div
+      className="Content"
+    />
+    <div
+      className="Footer"
+    >
+      <button
+        id="test-cancel"
+        onClick={[Function]}
+      >
+        Cancel
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ModalDialog renders snapshot 1`] = `
+<div
+  className="Component ModalDialog"
+  id="test"
+>
+  <div
+    className="Dialog"
+  >
+    <div
+      className="Header"
+    >
+      <span>
+        Title
+      </span>
+      <span
+        className="X"
+        id="test-x"
+        onClick={[Function]}
+      >
+        X
+      </span>
+    </div>
+    <div
+      className="Content"
+    />
+    <div
+      className="Footer"
+    >
+      <button
+        id="test-okay"
+        onClick={[Function]}
+      >
+        Okay
+      </button>
+      <button
+        id="test-cancel"
+        onClick={[Function]}
+      >
+        Cancel
+      </button>
+    </div>
+  </div>
+</div>
+`;

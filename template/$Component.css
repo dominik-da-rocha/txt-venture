@@ -1,5 +1,4 @@
 .$Component {        
-    display: inline-block;
+    display: block;
     background: green;
 }
-

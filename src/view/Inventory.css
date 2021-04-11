@@ -1,0 +1,9 @@
+.Inventory {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.Inventory .Content {
+  overflow-y: auto;
+}
