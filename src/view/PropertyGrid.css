@@ -1,0 +1,93 @@
+.PropertyGrid {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  height: 40rem;
+  width: 30rem;
+}
+
+.PropertyGrid > .Object .Object,
+.PropertyGrid > .Object .Value {
+  margin-left: 1.5rem;
+}
+
+.PropertyGrid .Object {
+  display: flex;
+  flex-direction: column;
+}
+
+.PropertyGrid .Value {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  align-content: stretch;
+  background: whitesmoke;
+}
+
+.PropertyGrid .Object > .Expander {
+  display: none;
+}
+
+.PropertyGrid .Object > .Expander ~ .ExpanderContent {
+  visibility: collapse;
+  height: 0;
+  padding: 0;
+  transition: height 0.5s ease;
+}
+
+.PropertyGrid .Object > .Expander:checked ~ .ExpanderContent {
+  visibility: visible;
+  height: auto;
+  transition: height 0.5s ease;
+}
+
+.PropertyGrid .Object > .Expander ~ .ExpanderLabel::before {
+  display: inline-block;
+  width: 1rem;
+  content: "▶";
+}
+
+.PropertyGrid .Object > .Expander:checked ~ .ExpanderLabel::before {
+  content: "▼";
+}
+
+.PropertyGrid .Object > .ExpanderLabel .PropertyGrid .Value {
+  flex-direction: row;
+}
+
+.PropertyGrid .Object > .ExpanderLabel,
+.PropertyGrid .Object > .ExpanderLabel::before {
+  display: inline-block;
+  user-select: none;
+  background: whitesmoke;
+}
+
+.PropertyGrid .Object > .ExpanderLabel::before {
+  width: 1rem;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  text-align: center;
+}
+
+.PropertyGrid .Object > .ExpanderLabel:hover,
+.PropertyGrid .Object > .ExpanderLabel:hover::before,
+.PropertyGrid .Value:hover {
+  background: #e0e0e0;
+}
+
+.PropertyGrid .Object > .ExpanderLabel:active,
+.PropertyGrid .Object > .ExpanderLabel:active::before,
+.PropertyGrid .Value:active {
+  background: cornflowerblue;
+  color: white;
+}
+
+.PropertyGrid .Value > .ExpanderLabel {
+  width: 30%;
+  user-select: none;
+}
+
+.PropertyGrid .Value > .Editor {
+  flex: 1;
+  margin: 0.1rem;
+}

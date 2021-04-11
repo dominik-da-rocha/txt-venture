@@ -1,6 +1,6 @@
 import Enzyme, { shallow } from "enzyme";
 import Adapter from "enzyme-adapter-react-16";
-import Renderer from 'react-test-renderer';
+import Renderer from "react-test-renderer";
 import React from "react";
 import Component, { ComponentProps, ComponentState } from "./Component";
 
@@ -25,9 +25,9 @@ describe("Component", () => {
   });
 
   it("renders snapshot", () => {
-    const tree = Renderer
-    .create(<Component id="test" className="Test" key="test" />)
-    .toJSON();
+    const tree = Renderer.create(
+      <Component id="test" className="Test" key="test" />
+    ).toJSON();
     expect(tree).toMatchSnapshot();
   });
 
@@ -51,5 +51,4 @@ describe("Component", () => {
     expect(wrapper.find("#parent-child1")).toHaveLength(1);
     expect(wrapper.find("#parent-child2")).toHaveLength(1);
   });
-
 });

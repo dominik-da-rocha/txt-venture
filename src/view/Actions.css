@@ -1,0 +1,29 @@
+.Actions {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+.Actions .Action {
+  display: inline;
+  padding: 0.25rem;
+  margin: 0.25rem;
+  border: 0.1rem silver solid;
+  background: white;
+  border-radius: 0.25rem;
+  user-select: none;
+  height: 1.5rem;
+}
+
+.Actions .Action:hover {
+  background: whitesmoke;
+}
+
+.Actions .Action:active {
+  background: cornflowerblue;
+  color: white;
+  border: 0.1rem #1a1a1a solid;
+}

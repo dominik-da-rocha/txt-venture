@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Console renders snapshot 1`] = `
+<div
+  className="Component Console Test"
+  id="test"
+/>
+`;

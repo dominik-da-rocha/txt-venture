@@ -1,0 +1,61 @@
+.ModalDialog {
+  position: fixed;
+  display: flex;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #0000005e;
+  z-index: 1000;
+}
+
+.ModalDialog button {
+  user-select: none;
+}
+
+.ModalDialog .Dialog {
+  background: white;
+  margin: auto;
+  min-width: 10rem;
+  min-height: 5rem;
+  box-shadow: 1px 1px 5px black;
+}
+
+.ModalDialog .Dialog .Header {
+  display: flex;
+  justify-content: space-between;
+  background: #286edd;
+  color: white;
+  padding: 0.25rem;
+}
+
+.ModalDialog .Dialog .Header .X {
+  user-select: none;
+  padding: 0.1rem;
+  width: 1.5rem;
+  height: 1rem;
+  text-align: center;
+}
+
+.ModalDialog .Dialog .Header .X:hover {
+  background: #c4320d;
+}
+
+.ModalDialog .Dialog .Header .X:active {
+  background: #fd3d0d;
+}
+
+.ModalDialog .Dialog .Content {
+  padding: 1rem;
+}
+
+.ModalDialog .Dialog .Footer {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.25rem;
+}
+
+.ModalDialog .Dialog .Footer button {
+  margin: 0.25rem;
+  padding: 0.25rem;
+}
