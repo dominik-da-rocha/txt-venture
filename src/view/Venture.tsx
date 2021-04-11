@@ -74,6 +74,7 @@ export class Venture extends Component<VentureProps, VentureState> {
       </div>
     );
   }
+  
   renderVentureDialog() {
     if (this.state.showVentureDialog) {
       return (
