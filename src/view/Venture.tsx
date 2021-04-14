@@ -51,6 +51,7 @@ export class Venture extends Component<VentureProps, VentureState> {
         <Inventory
           id={this.makeId("inventory")}
           inventory={this.state.txt.inventory}
+          objects={this.state.txt.objects}
         />
 
         <Actions

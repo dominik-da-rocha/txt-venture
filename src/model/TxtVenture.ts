@@ -15,6 +15,7 @@ export interface TxtAction extends TxtObject {
 export class TxtVenture {
   title: string = "TextVenture";
   isEditor: boolean = true;
+  scene: string = "scene1";
   actions: any = {
     giveTo: { name: "Gib", isEnabled: true },
     open: { name: "Öffne", isEnabled: true },
@@ -54,7 +55,6 @@ export class TxtVenture {
   };
   inventory: string[] = ["object1", "object2", "object3"];
   scenes: any = { scene1: { name: "Scene 1", content: loremIpsum } };
-  scene: string = "scene1";
   logBook: string[] = [];
 
   static action(txt: TxtVenture, action: TxtAction) {

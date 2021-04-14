@@ -37,306 +37,15 @@ exports[`Venture renders snapshot 1`] = `
     <div
       className="Content"
     >
-      <div>
-        item0
-      </div>
-      <div>
-        item1
-      </div>
-      <div>
-        item2
-      </div>
-      <div>
-        item3
-      </div>
-      <div>
-        item4
-      </div>
-      <div>
-        item5
-      </div>
-      <div>
-        item6
-      </div>
-      <div>
-        item7
-      </div>
-      <div>
-        item8
-      </div>
-      <div>
-        item9
-      </div>
-      <div>
-        item10
-      </div>
-      <div>
-        item11
-      </div>
-      <div>
-        item12
-      </div>
-      <div>
-        item13
-      </div>
-      <div>
-        item14
-      </div>
-      <div>
-        item15
-      </div>
-      <div>
-        item16
-      </div>
-      <div>
-        item17
-      </div>
-      <div>
-        item18
-      </div>
-      <div>
-        item19
-      </div>
-      <div>
-        item20
-      </div>
-      <div>
-        item21
-      </div>
-      <div>
-        item22
-      </div>
-      <div>
-        item23
-      </div>
-      <div>
-        item24
-      </div>
-      <div>
-        item25
-      </div>
-      <div>
-        item26
-      </div>
-      <div>
-        item27
-      </div>
-      <div>
-        item28
-      </div>
-      <div>
-        item29
-      </div>
-      <div>
-        item30
-      </div>
-      <div>
-        item31
-      </div>
-      <div>
-        item32
-      </div>
-      <div>
-        item33
-      </div>
-      <div>
-        item34
-      </div>
-      <div>
-        item35
-      </div>
-      <div>
-        item36
-      </div>
-      <div>
-        item37
-      </div>
-      <div>
-        item38
-      </div>
-      <div>
-        item39
-      </div>
-      <div>
-        item40
-      </div>
-      <div>
-        item41
-      </div>
-      <div>
-        item42
-      </div>
-      <div>
-        item43
-      </div>
-      <div>
-        item44
-      </div>
-      <div>
-        item45
-      </div>
-      <div>
-        item46
-      </div>
-      <div>
-        item47
-      </div>
-      <div>
-        item48
-      </div>
-      <div>
-        item49
-      </div>
-      <div>
-        item50
-      </div>
-      <div>
-        item51
-      </div>
-      <div>
-        item52
-      </div>
-      <div>
-        item53
-      </div>
-      <div>
-        item54
-      </div>
-      <div>
-        item55
-      </div>
-      <div>
-        item56
-      </div>
-      <div>
-        item57
-      </div>
-      <div>
-        item58
-      </div>
-      <div>
-        item59
-      </div>
-      <div>
-        item60
-      </div>
-      <div>
-        item61
-      </div>
-      <div>
-        item62
-      </div>
-      <div>
-        item63
-      </div>
-      <div>
-        item64
-      </div>
-      <div>
-        item65
-      </div>
-      <div>
-        item66
-      </div>
-      <div>
-        item67
-      </div>
-      <div>
-        item68
-      </div>
-      <div>
-        item69
-      </div>
-      <div>
-        item70
-      </div>
-      <div>
-        item71
-      </div>
-      <div>
-        item72
-      </div>
-      <div>
-        item73
-      </div>
-      <div>
-        item74
-      </div>
-      <div>
-        item75
-      </div>
-      <div>
-        item76
-      </div>
-      <div>
-        item77
-      </div>
-      <div>
-        item78
-      </div>
-      <div>
-        item79
-      </div>
-      <div>
-        item80
-      </div>
-      <div>
-        item81
-      </div>
-      <div>
-        item82
-      </div>
-      <div>
-        item83
-      </div>
-      <div>
-        item84
-      </div>
-      <div>
-        item85
-      </div>
-      <div>
-        item86
-      </div>
-      <div>
-        item87
-      </div>
-      <div>
-        item88
-      </div>
-      <div>
-        item89
-      </div>
-      <div>
-        item90
-      </div>
-      <div>
-        item91
-      </div>
-      <div>
-        item92
-      </div>
-      <div>
-        item93
-      </div>
-      <div>
-        item94
-      </div>
-      <div>
-        item95
-      </div>
-      <div>
-        item96
-      </div>
-      <div>
-        item97
-      </div>
-      <div>
-        item98
-      </div>
-      <div>
-        item99
-      </div>
+      <li>
+        Object 1
+      </li>
+      <li>
+        Object 2
+      </li>
+      <li>
+        Object 3
+      </li>
     </div>
   </div>
   <div
@@ -472,306 +181,15 @@ exports[`Venture renders with no editor 1`] = `
     <div
       className="Content"
     >
-      <div>
-        item0
-      </div>
-      <div>
-        item1
-      </div>
-      <div>
-        item2
-      </div>
-      <div>
-        item3
-      </div>
-      <div>
-        item4
-      </div>
-      <div>
-        item5
-      </div>
-      <div>
-        item6
-      </div>
-      <div>
-        item7
-      </div>
-      <div>
-        item8
-      </div>
-      <div>
-        item9
-      </div>
-      <div>
-        item10
-      </div>
-      <div>
-        item11
-      </div>
-      <div>
-        item12
-      </div>
-      <div>
-        item13
-      </div>
-      <div>
-        item14
-      </div>
-      <div>
-        item15
-      </div>
-      <div>
-        item16
-      </div>
-      <div>
-        item17
-      </div>
-      <div>
-        item18
-      </div>
-      <div>
-        item19
-      </div>
-      <div>
-        item20
-      </div>
-      <div>
-        item21
-      </div>
-      <div>
-        item22
-      </div>
-      <div>
-        item23
-      </div>
-      <div>
-        item24
-      </div>
-      <div>
-        item25
-      </div>
-      <div>
-        item26
-      </div>
-      <div>
-        item27
-      </div>
-      <div>
-        item28
-      </div>
-      <div>
-        item29
-      </div>
-      <div>
-        item30
-      </div>
-      <div>
-        item31
-      </div>
-      <div>
-        item32
-      </div>
-      <div>
-        item33
-      </div>
-      <div>
-        item34
-      </div>
-      <div>
-        item35
-      </div>
-      <div>
-        item36
-      </div>
-      <div>
-        item37
-      </div>
-      <div>
-        item38
-      </div>
-      <div>
-        item39
-      </div>
-      <div>
-        item40
-      </div>
-      <div>
-        item41
-      </div>
-      <div>
-        item42
-      </div>
-      <div>
-        item43
-      </div>
-      <div>
-        item44
-      </div>
-      <div>
-        item45
-      </div>
-      <div>
-        item46
-      </div>
-      <div>
-        item47
-      </div>
-      <div>
-        item48
-      </div>
-      <div>
-        item49
-      </div>
-      <div>
-        item50
-      </div>
-      <div>
-        item51
-      </div>
-      <div>
-        item52
-      </div>
-      <div>
-        item53
-      </div>
-      <div>
-        item54
-      </div>
-      <div>
-        item55
-      </div>
-      <div>
-        item56
-      </div>
-      <div>
-        item57
-      </div>
-      <div>
-        item58
-      </div>
-      <div>
-        item59
-      </div>
-      <div>
-        item60
-      </div>
-      <div>
-        item61
-      </div>
-      <div>
-        item62
-      </div>
-      <div>
-        item63
-      </div>
-      <div>
-        item64
-      </div>
-      <div>
-        item65
-      </div>
-      <div>
-        item66
-      </div>
-      <div>
-        item67
-      </div>
-      <div>
-        item68
-      </div>
-      <div>
-        item69
-      </div>
-      <div>
-        item70
-      </div>
-      <div>
-        item71
-      </div>
-      <div>
-        item72
-      </div>
-      <div>
-        item73
-      </div>
-      <div>
-        item74
-      </div>
-      <div>
-        item75
-      </div>
-      <div>
-        item76
-      </div>
-      <div>
-        item77
-      </div>
-      <div>
-        item78
-      </div>
-      <div>
-        item79
-      </div>
-      <div>
-        item80
-      </div>
-      <div>
-        item81
-      </div>
-      <div>
-        item82
-      </div>
-      <div>
-        item83
-      </div>
-      <div>
-        item84
-      </div>
-      <div>
-        item85
-      </div>
-      <div>
-        item86
-      </div>
-      <div>
-        item87
-      </div>
-      <div>
-        item88
-      </div>
-      <div>
-        item89
-      </div>
-      <div>
-        item90
-      </div>
-      <div>
-        item91
-      </div>
-      <div>
-        item92
-      </div>
-      <div>
-        item93
-      </div>
-      <div>
-        item94
-      </div>
-      <div>
-        item95
-      </div>
-      <div>
-        item96
-      </div>
-      <div>
-        item97
-      </div>
-      <div>
-        item98
-      </div>
-      <div>
-        item99
-      </div>
+      <li>
+        Object 1
+      </li>
+      <li>
+        Object 2
+      </li>
+      <li>
+        Object 3
+      </li>
     </div>
   </div>
   <div
@@ -907,306 +325,15 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
     <div
       className="Content"
     >
-      <div>
-        item0
-      </div>
-      <div>
-        item1
-      </div>
-      <div>
-        item2
-      </div>
-      <div>
-        item3
-      </div>
-      <div>
-        item4
-      </div>
-      <div>
-        item5
-      </div>
-      <div>
-        item6
-      </div>
-      <div>
-        item7
-      </div>
-      <div>
-        item8
-      </div>
-      <div>
-        item9
-      </div>
-      <div>
-        item10
-      </div>
-      <div>
-        item11
-      </div>
-      <div>
-        item12
-      </div>
-      <div>
-        item13
-      </div>
-      <div>
-        item14
-      </div>
-      <div>
-        item15
-      </div>
-      <div>
-        item16
-      </div>
-      <div>
-        item17
-      </div>
-      <div>
-        item18
-      </div>
-      <div>
-        item19
-      </div>
-      <div>
-        item20
-      </div>
-      <div>
-        item21
-      </div>
-      <div>
-        item22
-      </div>
-      <div>
-        item23
-      </div>
-      <div>
-        item24
-      </div>
-      <div>
-        item25
-      </div>
-      <div>
-        item26
-      </div>
-      <div>
-        item27
-      </div>
-      <div>
-        item28
-      </div>
-      <div>
-        item29
-      </div>
-      <div>
-        item30
-      </div>
-      <div>
-        item31
-      </div>
-      <div>
-        item32
-      </div>
-      <div>
-        item33
-      </div>
-      <div>
-        item34
-      </div>
-      <div>
-        item35
-      </div>
-      <div>
-        item36
-      </div>
-      <div>
-        item37
-      </div>
-      <div>
-        item38
-      </div>
-      <div>
-        item39
-      </div>
-      <div>
-        item40
-      </div>
-      <div>
-        item41
-      </div>
-      <div>
-        item42
-      </div>
-      <div>
-        item43
-      </div>
-      <div>
-        item44
-      </div>
-      <div>
-        item45
-      </div>
-      <div>
-        item46
-      </div>
-      <div>
-        item47
-      </div>
-      <div>
-        item48
-      </div>
-      <div>
-        item49
-      </div>
-      <div>
-        item50
-      </div>
-      <div>
-        item51
-      </div>
-      <div>
-        item52
-      </div>
-      <div>
-        item53
-      </div>
-      <div>
-        item54
-      </div>
-      <div>
-        item55
-      </div>
-      <div>
-        item56
-      </div>
-      <div>
-        item57
-      </div>
-      <div>
-        item58
-      </div>
-      <div>
-        item59
-      </div>
-      <div>
-        item60
-      </div>
-      <div>
-        item61
-      </div>
-      <div>
-        item62
-      </div>
-      <div>
-        item63
-      </div>
-      <div>
-        item64
-      </div>
-      <div>
-        item65
-      </div>
-      <div>
-        item66
-      </div>
-      <div>
-        item67
-      </div>
-      <div>
-        item68
-      </div>
-      <div>
-        item69
-      </div>
-      <div>
-        item70
-      </div>
-      <div>
-        item71
-      </div>
-      <div>
-        item72
-      </div>
-      <div>
-        item73
-      </div>
-      <div>
-        item74
-      </div>
-      <div>
-        item75
-      </div>
-      <div>
-        item76
-      </div>
-      <div>
-        item77
-      </div>
-      <div>
-        item78
-      </div>
-      <div>
-        item79
-      </div>
-      <div>
-        item80
-      </div>
-      <div>
-        item81
-      </div>
-      <div>
-        item82
-      </div>
-      <div>
-        item83
-      </div>
-      <div>
-        item84
-      </div>
-      <div>
-        item85
-      </div>
-      <div>
-        item86
-      </div>
-      <div>
-        item87
-      </div>
-      <div>
-        item88
-      </div>
-      <div>
-        item89
-      </div>
-      <div>
-        item90
-      </div>
-      <div>
-        item91
-      </div>
-      <div>
-        item92
-      </div>
-      <div>
-        item93
-      </div>
-      <div>
-        item94
-      </div>
-      <div>
-        item95
-      </div>
-      <div>
-        item96
-      </div>
-      <div>
-        item97
-      </div>
-      <div>
-        item98
-      </div>
-      <div>
-        item99
-      </div>
+      <li>
+        Object 1
+      </li>
+      <li>
+        Object 2
+      </li>
+      <li>
+        Object 3
+      </li>
     </div>
   </div>
   <div
@@ -1373,18 +500,39 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
             </div>
           </div>
           <div
+            className="Value"
+          >
+            <label
+              className="Caption"
+              htmlFor="test-propertyGrid-item-3"
+            >
+              scene
+            </label>
+            <div
+              className="ExpanderContent"
+            >
+              <input
+                className="Editor"
+                defaultValue="scene1"
+                id="test-propertyGrid-item-3"
+                onChange={[Function]}
+                type="text"
+              />
+            </div>
+          </div>
+          <div
             className="Object"
           >
             <input
               className="Expander"
               defaultChecked={true}
-              id="test-propertyGrid-item-3"
+              id="test-propertyGrid-item-4"
               onChange={[Function]}
               type="checkbox"
             />
             <label
               className="Caption"
-              htmlFor="test-propertyGrid-item-3"
+              htmlFor="test-propertyGrid-item-4"
             >
               actions
             </label>
@@ -1397,13 +545,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-4"
+                  id="test-propertyGrid-item-5"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-4"
+                  htmlFor="test-propertyGrid-item-5"
                 >
                   giveTo
                 </label>
@@ -1415,7 +563,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-5"
+                      htmlFor="test-propertyGrid-item-6"
                     >
                       name
                     </label>
@@ -1425,7 +573,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Gib"
-                        id="test-propertyGrid-item-5"
+                        id="test-propertyGrid-item-6"
                         onChange={[Function]}
                         type="text"
                       />
@@ -1436,7 +584,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-6"
+                      htmlFor="test-propertyGrid-item-7"
                     >
                       isEnabled
                     </label>
@@ -1446,7 +594,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultChecked={true}
-                        id="test-propertyGrid-item-6"
+                        id="test-propertyGrid-item-7"
                         onChange={[Function]}
                         type="checkbox"
                       />
@@ -1460,13 +608,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-7"
+                  id="test-propertyGrid-item-8"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-7"
+                  htmlFor="test-propertyGrid-item-8"
                 >
                   open
                 </label>
@@ -1478,7 +626,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-8"
+                      htmlFor="test-propertyGrid-item-9"
                     >
                       name
                     </label>
@@ -1488,7 +636,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Öffne"
-                        id="test-propertyGrid-item-8"
+                        id="test-propertyGrid-item-9"
                         onChange={[Function]}
                         type="text"
                       />
@@ -1499,7 +647,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-9"
+                      htmlFor="test-propertyGrid-item-10"
                     >
                       isEnabled
                     </label>
@@ -1509,7 +657,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultChecked={true}
-                        id="test-propertyGrid-item-9"
+                        id="test-propertyGrid-item-10"
                         onChange={[Function]}
                         type="checkbox"
                       />
@@ -1523,13 +671,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-10"
+                  id="test-propertyGrid-item-11"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-10"
+                  htmlFor="test-propertyGrid-item-11"
                 >
                   close
                 </label>
@@ -1541,7 +689,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-11"
+                      htmlFor="test-propertyGrid-item-12"
                     >
                       name
                     </label>
@@ -1551,7 +699,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Schließe"
-                        id="test-propertyGrid-item-11"
+                        id="test-propertyGrid-item-12"
                         onChange={[Function]}
                         type="text"
                       />
@@ -1562,7 +710,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-12"
+                      htmlFor="test-propertyGrid-item-13"
                     >
                       isEnabled
                     </label>
@@ -1572,7 +720,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultChecked={true}
-                        id="test-propertyGrid-item-12"
+                        id="test-propertyGrid-item-13"
                         onChange={[Function]}
                         type="checkbox"
                       />
@@ -1586,13 +734,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-13"
+                  id="test-propertyGrid-item-14"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-13"
+                  htmlFor="test-propertyGrid-item-14"
                 >
                   pickUp
                 </label>
@@ -1604,7 +752,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-14"
+                      htmlFor="test-propertyGrid-item-15"
                     >
                       name
                     </label>
@@ -1614,7 +762,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Nimm"
-                        id="test-propertyGrid-item-14"
+                        id="test-propertyGrid-item-15"
                         onChange={[Function]}
                         type="text"
                       />
@@ -1625,7 +773,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-15"
+                      htmlFor="test-propertyGrid-item-16"
                     >
                       isEnabled
                     </label>
@@ -1635,7 +783,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultChecked={true}
-                        id="test-propertyGrid-item-15"
+                        id="test-propertyGrid-item-16"
                         onChange={[Function]}
                         type="checkbox"
                       />
@@ -1649,13 +797,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-16"
+                  id="test-propertyGrid-item-17"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-16"
+                  htmlFor="test-propertyGrid-item-17"
                 >
                   lookAt
                 </label>
@@ -1667,7 +815,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-17"
+                      htmlFor="test-propertyGrid-item-18"
                     >
                       name
                     </label>
@@ -1677,7 +825,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Schau"
-                        id="test-propertyGrid-item-17"
+                        id="test-propertyGrid-item-18"
                         onChange={[Function]}
                         type="text"
                       />
@@ -1688,7 +836,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-18"
+                      htmlFor="test-propertyGrid-item-19"
                     >
                       isEnabled
                     </label>
@@ -1698,7 +846,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultChecked={true}
-                        id="test-propertyGrid-item-18"
+                        id="test-propertyGrid-item-19"
                         onChange={[Function]}
                         type="checkbox"
                       />
@@ -1712,13 +860,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-19"
+                  id="test-propertyGrid-item-20"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-19"
+                  htmlFor="test-propertyGrid-item-20"
                 >
                   talkTo
                 </label>
@@ -1730,7 +878,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-20"
+                      htmlFor="test-propertyGrid-item-21"
                     >
                       name
                     </label>
@@ -1740,7 +888,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Rede mit"
-                        id="test-propertyGrid-item-20"
+                        id="test-propertyGrid-item-21"
                         onChange={[Function]}
                         type="text"
                       />
@@ -1751,7 +899,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-21"
+                      htmlFor="test-propertyGrid-item-22"
                     >
                       isEnabled
                     </label>
@@ -1761,7 +909,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultChecked={true}
-                        id="test-propertyGrid-item-21"
+                        id="test-propertyGrid-item-22"
                         onChange={[Function]}
                         type="checkbox"
                       />
@@ -1775,13 +923,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-22"
+                  id="test-propertyGrid-item-23"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-22"
+                  htmlFor="test-propertyGrid-item-23"
                 >
                   push
                 </label>
@@ -1793,7 +941,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-23"
+                      htmlFor="test-propertyGrid-item-24"
                     >
                       name
                     </label>
@@ -1803,7 +951,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Drücke"
-                        id="test-propertyGrid-item-23"
+                        id="test-propertyGrid-item-24"
                         onChange={[Function]}
                         type="text"
                       />
@@ -1814,7 +962,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-24"
+                      htmlFor="test-propertyGrid-item-25"
                     >
                       isEnabled
                     </label>
@@ -1824,7 +972,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultChecked={true}
-                        id="test-propertyGrid-item-24"
+                        id="test-propertyGrid-item-25"
                         onChange={[Function]}
                         type="checkbox"
                       />
@@ -1838,13 +986,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-25"
+                  id="test-propertyGrid-item-26"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-25"
+                  htmlFor="test-propertyGrid-item-26"
                 >
                   pull
                 </label>
@@ -1856,7 +1004,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-26"
+                      htmlFor="test-propertyGrid-item-27"
                     >
                       name
                     </label>
@@ -1866,7 +1014,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Ziehe"
-                        id="test-propertyGrid-item-26"
+                        id="test-propertyGrid-item-27"
                         onChange={[Function]}
                         type="text"
                       />
@@ -1877,7 +1025,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-27"
+                      htmlFor="test-propertyGrid-item-28"
                     >
                       isEnabled
                     </label>
@@ -1887,7 +1035,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultChecked={true}
-                        id="test-propertyGrid-item-27"
+                        id="test-propertyGrid-item-28"
                         onChange={[Function]}
                         type="checkbox"
                       />
@@ -1901,13 +1049,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-28"
+                  id="test-propertyGrid-item-29"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-28"
+                  htmlFor="test-propertyGrid-item-29"
                 >
                   goto
                 </label>
@@ -1919,7 +1067,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-29"
+                      htmlFor="test-propertyGrid-item-30"
                     >
                       name
                     </label>
@@ -1929,7 +1077,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Gehe zu"
-                        id="test-propertyGrid-item-29"
+                        id="test-propertyGrid-item-30"
                         onChange={[Function]}
                         type="text"
                       />
@@ -1940,7 +1088,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-30"
+                      htmlFor="test-propertyGrid-item-31"
                     >
                       isEnabled
                     </label>
@@ -1950,7 +1098,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultChecked={true}
-                        id="test-propertyGrid-item-30"
+                        id="test-propertyGrid-item-31"
                         onChange={[Function]}
                         type="checkbox"
                       />
@@ -1964,13 +1112,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-31"
+                  id="test-propertyGrid-item-32"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-31"
+                  htmlFor="test-propertyGrid-item-32"
                 >
                   use
                 </label>
@@ -1982,7 +1130,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-32"
+                      htmlFor="test-propertyGrid-item-33"
                     >
                       name
                     </label>
@@ -1992,7 +1140,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Benutze"
-                        id="test-propertyGrid-item-32"
+                        id="test-propertyGrid-item-33"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2003,7 +1151,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-33"
+                      htmlFor="test-propertyGrid-item-34"
                     >
                       isEnabled
                     </label>
@@ -2013,7 +1161,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultChecked={true}
-                        id="test-propertyGrid-item-33"
+                        id="test-propertyGrid-item-34"
                         onChange={[Function]}
                         type="checkbox"
                       />
@@ -2027,13 +1175,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-34"
+                  id="test-propertyGrid-item-35"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-34"
+                  htmlFor="test-propertyGrid-item-35"
                 >
                   save
                 </label>
@@ -2045,7 +1193,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-35"
+                      htmlFor="test-propertyGrid-item-36"
                     >
                       name
                     </label>
@@ -2055,7 +1203,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Speichern"
-                        id="test-propertyGrid-item-35"
+                        id="test-propertyGrid-item-36"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2066,7 +1214,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-36"
+                      htmlFor="test-propertyGrid-item-37"
                     >
                       isEnabled
                     </label>
@@ -2076,7 +1224,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultChecked={true}
-                        id="test-propertyGrid-item-36"
+                        id="test-propertyGrid-item-37"
                         onChange={[Function]}
                         type="checkbox"
                       />
@@ -2090,13 +1238,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-37"
+                  id="test-propertyGrid-item-38"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-37"
+                  htmlFor="test-propertyGrid-item-38"
                 >
                   load
                 </label>
@@ -2108,7 +1256,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-38"
+                      htmlFor="test-propertyGrid-item-39"
                     >
                       name
                     </label>
@@ -2118,7 +1266,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Laden"
-                        id="test-propertyGrid-item-38"
+                        id="test-propertyGrid-item-39"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2129,7 +1277,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-39"
+                      htmlFor="test-propertyGrid-item-40"
                     >
                       isEnabled
                     </label>
@@ -2139,7 +1287,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultChecked={true}
-                        id="test-propertyGrid-item-39"
+                        id="test-propertyGrid-item-40"
                         onChange={[Function]}
                         type="checkbox"
                       />
@@ -2155,13 +1303,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
             <input
               className="Expander"
               defaultChecked={true}
-              id="test-propertyGrid-item-40"
+              id="test-propertyGrid-item-41"
               onChange={[Function]}
               type="checkbox"
             />
             <label
               className="Caption"
-              htmlFor="test-propertyGrid-item-40"
+              htmlFor="test-propertyGrid-item-41"
             >
               objects
             </label>
@@ -2174,13 +1322,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-41"
+                  id="test-propertyGrid-item-42"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-41"
+                  htmlFor="test-propertyGrid-item-42"
                 >
                   object1
                 </label>
@@ -2192,7 +1340,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-42"
+                      htmlFor="test-propertyGrid-item-43"
                     >
                       name
                     </label>
@@ -2202,7 +1350,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 1"
-                        id="test-propertyGrid-item-42"
+                        id="test-propertyGrid-item-43"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2216,13 +1364,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-43"
+                  id="test-propertyGrid-item-44"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-43"
+                  htmlFor="test-propertyGrid-item-44"
                 >
                   object2
                 </label>
@@ -2234,7 +1382,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-44"
+                      htmlFor="test-propertyGrid-item-45"
                     >
                       name
                     </label>
@@ -2244,7 +1392,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 2"
-                        id="test-propertyGrid-item-44"
+                        id="test-propertyGrid-item-45"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2258,13 +1406,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-45"
+                  id="test-propertyGrid-item-46"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-45"
+                  htmlFor="test-propertyGrid-item-46"
                 >
                   object3
                 </label>
@@ -2276,7 +1424,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-46"
+                      htmlFor="test-propertyGrid-item-47"
                     >
                       name
                     </label>
@@ -2286,7 +1434,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 3"
-                        id="test-propertyGrid-item-46"
+                        id="test-propertyGrid-item-47"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2300,13 +1448,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-47"
+                  id="test-propertyGrid-item-48"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-47"
+                  htmlFor="test-propertyGrid-item-48"
                 >
                   object4
                 </label>
@@ -2318,7 +1466,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-48"
+                      htmlFor="test-propertyGrid-item-49"
                     >
                       name
                     </label>
@@ -2328,7 +1476,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 4"
-                        id="test-propertyGrid-item-48"
+                        id="test-propertyGrid-item-49"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2342,13 +1490,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-49"
+                  id="test-propertyGrid-item-50"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-49"
+                  htmlFor="test-propertyGrid-item-50"
                 >
                   object5
                 </label>
@@ -2360,7 +1508,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-50"
+                      htmlFor="test-propertyGrid-item-51"
                     >
                       name
                     </label>
@@ -2370,7 +1518,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 5"
-                        id="test-propertyGrid-item-50"
+                        id="test-propertyGrid-item-51"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2384,13 +1532,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-51"
+                  id="test-propertyGrid-item-52"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-51"
+                  htmlFor="test-propertyGrid-item-52"
                 >
                   object6
                 </label>
@@ -2402,7 +1550,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-52"
+                      htmlFor="test-propertyGrid-item-53"
                     >
                       name
                     </label>
@@ -2412,7 +1560,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 6"
-                        id="test-propertyGrid-item-52"
+                        id="test-propertyGrid-item-53"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2426,13 +1574,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-53"
+                  id="test-propertyGrid-item-54"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-53"
+                  htmlFor="test-propertyGrid-item-54"
                 >
                   object7
                 </label>
@@ -2444,7 +1592,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-54"
+                      htmlFor="test-propertyGrid-item-55"
                     >
                       name
                     </label>
@@ -2454,7 +1602,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 7"
-                        id="test-propertyGrid-item-54"
+                        id="test-propertyGrid-item-55"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2468,13 +1616,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-55"
+                  id="test-propertyGrid-item-56"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-55"
+                  htmlFor="test-propertyGrid-item-56"
                 >
                   object8
                 </label>
@@ -2486,7 +1634,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-56"
+                      htmlFor="test-propertyGrid-item-57"
                     >
                       name
                     </label>
@@ -2496,7 +1644,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 8"
-                        id="test-propertyGrid-item-56"
+                        id="test-propertyGrid-item-57"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2510,13 +1658,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-57"
+                  id="test-propertyGrid-item-58"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-57"
+                  htmlFor="test-propertyGrid-item-58"
                 >
                   object9
                 </label>
@@ -2528,7 +1676,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-58"
+                      htmlFor="test-propertyGrid-item-59"
                     >
                       name
                     </label>
@@ -2538,7 +1686,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 9"
-                        id="test-propertyGrid-item-58"
+                        id="test-propertyGrid-item-59"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2552,13 +1700,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-59"
+                  id="test-propertyGrid-item-60"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-59"
+                  htmlFor="test-propertyGrid-item-60"
                 >
                   object10
                 </label>
@@ -2570,7 +1718,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-60"
+                      htmlFor="test-propertyGrid-item-61"
                     >
                       name
                     </label>
@@ -2580,7 +1728,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 10"
-                        id="test-propertyGrid-item-60"
+                        id="test-propertyGrid-item-61"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2594,13 +1742,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-61"
+                  id="test-propertyGrid-item-62"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-61"
+                  htmlFor="test-propertyGrid-item-62"
                 >
                   object11
                 </label>
@@ -2612,7 +1760,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-62"
+                      htmlFor="test-propertyGrid-item-63"
                     >
                       name
                     </label>
@@ -2622,7 +1770,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 11"
-                        id="test-propertyGrid-item-62"
+                        id="test-propertyGrid-item-63"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2636,13 +1784,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-63"
+                  id="test-propertyGrid-item-64"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-63"
+                  htmlFor="test-propertyGrid-item-64"
                 >
                   object12
                 </label>
@@ -2654,7 +1802,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-64"
+                      htmlFor="test-propertyGrid-item-65"
                     >
                       name
                     </label>
@@ -2664,7 +1812,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 12"
-                        id="test-propertyGrid-item-64"
+                        id="test-propertyGrid-item-65"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2678,13 +1826,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-65"
+                  id="test-propertyGrid-item-66"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-65"
+                  htmlFor="test-propertyGrid-item-66"
                 >
                   object13
                 </label>
@@ -2696,7 +1844,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-66"
+                      htmlFor="test-propertyGrid-item-67"
                     >
                       name
                     </label>
@@ -2706,7 +1854,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 13"
-                        id="test-propertyGrid-item-66"
+                        id="test-propertyGrid-item-67"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2720,13 +1868,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-67"
+                  id="test-propertyGrid-item-68"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-67"
+                  htmlFor="test-propertyGrid-item-68"
                 >
                   object14
                 </label>
@@ -2738,7 +1886,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-68"
+                      htmlFor="test-propertyGrid-item-69"
                     >
                       name
                     </label>
@@ -2748,7 +1896,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 14"
-                        id="test-propertyGrid-item-68"
+                        id="test-propertyGrid-item-69"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2762,13 +1910,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-69"
+                  id="test-propertyGrid-item-70"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-69"
+                  htmlFor="test-propertyGrid-item-70"
                 >
                   object15
                 </label>
@@ -2780,7 +1928,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-70"
+                      htmlFor="test-propertyGrid-item-71"
                     >
                       name
                     </label>
@@ -2790,7 +1938,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 15"
-                        id="test-propertyGrid-item-70"
+                        id="test-propertyGrid-item-71"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2804,13 +1952,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-71"
+                  id="test-propertyGrid-item-72"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-71"
+                  htmlFor="test-propertyGrid-item-72"
                 >
                   object16
                 </label>
@@ -2822,7 +1970,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-72"
+                      htmlFor="test-propertyGrid-item-73"
                     >
                       name
                     </label>
@@ -2832,7 +1980,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Object 16"
-                        id="test-propertyGrid-item-72"
+                        id="test-propertyGrid-item-73"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2848,13 +1996,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
             <input
               className="Expander"
               defaultChecked={true}
-              id="test-propertyGrid-item-73"
+              id="test-propertyGrid-item-74"
               onChange={[Function]}
               type="checkbox"
             />
             <label
               className="Caption"
-              htmlFor="test-propertyGrid-item-73"
+              htmlFor="test-propertyGrid-item-74"
             >
               persons
             </label>
@@ -2867,13 +2015,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-74"
+                  id="test-propertyGrid-item-75"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-74"
+                  htmlFor="test-propertyGrid-item-75"
                 >
                   person1
                 </label>
@@ -2885,7 +2033,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-75"
+                      htmlFor="test-propertyGrid-item-76"
                     >
                       name
                     </label>
@@ -2895,7 +2043,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Person 1"
-                        id="test-propertyGrid-item-75"
+                        id="test-propertyGrid-item-76"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2909,13 +2057,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-76"
+                  id="test-propertyGrid-item-77"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-76"
+                  htmlFor="test-propertyGrid-item-77"
                 >
                   person2
                 </label>
@@ -2927,7 +2075,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-77"
+                      htmlFor="test-propertyGrid-item-78"
                     >
                       name
                     </label>
@@ -2937,7 +2085,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Person 2"
-                        id="test-propertyGrid-item-77"
+                        id="test-propertyGrid-item-78"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2951,13 +2099,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-78"
+                  id="test-propertyGrid-item-79"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-78"
+                  htmlFor="test-propertyGrid-item-79"
                 >
                   person3
                 </label>
@@ -2969,7 +2117,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-79"
+                      htmlFor="test-propertyGrid-item-80"
                     >
                       name
                     </label>
@@ -2979,7 +2127,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Person 3"
-                        id="test-propertyGrid-item-79"
+                        id="test-propertyGrid-item-80"
                         onChange={[Function]}
                         type="text"
                       />
@@ -2995,13 +2143,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
             <input
               className="Expander"
               defaultChecked={true}
-              id="test-propertyGrid-item-80"
+              id="test-propertyGrid-item-81"
               onChange={[Function]}
               type="checkbox"
             />
             <label
               className="Caption"
-              htmlFor="test-propertyGrid-item-80"
+              htmlFor="test-propertyGrid-item-81"
             >
               inventory
             </label>
@@ -3013,7 +2161,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
               >
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-81"
+                  htmlFor="test-propertyGrid-item-82"
                 >
                   0
                 </label>
@@ -3023,27 +2171,6 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   <input
                     className="Editor"
                     defaultValue="object1"
-                    id="test-propertyGrid-item-81"
-                    onChange={[Function]}
-                    type="text"
-                  />
-                </div>
-              </div>
-              <div
-                className="Value"
-              >
-                <label
-                  className="Caption"
-                  htmlFor="test-propertyGrid-item-82"
-                >
-                  1
-                </label>
-                <div
-                  className="ExpanderContent"
-                >
-                  <input
-                    className="Editor"
-                    defaultValue="object2"
                     id="test-propertyGrid-item-82"
                     onChange={[Function]}
                     type="text"
@@ -3057,6 +2184,27 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   className="Caption"
                   htmlFor="test-propertyGrid-item-83"
                 >
+                  1
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="object2"
+                    id="test-propertyGrid-item-83"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
+              >
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-84"
+                >
                   2
                 </label>
                 <div
@@ -3065,7 +2213,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   <input
                     className="Editor"
                     defaultValue="object3"
-                    id="test-propertyGrid-item-83"
+                    id="test-propertyGrid-item-84"
                     onChange={[Function]}
                     type="text"
                   />
@@ -3079,13 +2227,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
             <input
               className="Expander"
               defaultChecked={true}
-              id="test-propertyGrid-item-84"
+              id="test-propertyGrid-item-85"
               onChange={[Function]}
               type="checkbox"
             />
             <label
               className="Caption"
-              htmlFor="test-propertyGrid-item-84"
+              htmlFor="test-propertyGrid-item-85"
             >
               scenes
             </label>
@@ -3098,13 +2246,13 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                 <input
                   className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-85"
+                  id="test-propertyGrid-item-86"
                   onChange={[Function]}
                   type="checkbox"
                 />
                 <label
                   className="Caption"
-                  htmlFor="test-propertyGrid-item-85"
+                  htmlFor="test-propertyGrid-item-86"
                 >
                   scene1
                 </label>
@@ -3116,7 +2264,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-86"
+                      htmlFor="test-propertyGrid-item-87"
                     >
                       name
                     </label>
@@ -3126,7 +2274,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Scene 1"
-                        id="test-propertyGrid-item-86"
+                        id="test-propertyGrid-item-87"
                         onChange={[Function]}
                         type="text"
                       />
@@ -3137,7 +2285,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   >
                     <label
                       className="Caption"
-                      htmlFor="test-propertyGrid-item-87"
+                      htmlFor="test-propertyGrid-item-88"
                     >
                       content
                     </label>
@@ -3147,7 +2295,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                       <input
                         className="Editor"
                         defaultValue="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit essemolestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eroset accumsan et iusto odio dignissim qui blandit praesent luptatum zzrildelenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis at vero eros et accumsan et iusto odio dignissim qui blanditpraesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.Nam liber tempor cum soluta nobis eleifend option congue nihil imperdietdoming id quod mazim placerat facer possim assum. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusamaliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed temporet et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum.sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat. Consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus estLorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus estLorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit essemolestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eroset accumsan et iusto odio dignissim qui blandit praesent luptatum zzrildelenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis at vero eros et accumsan et iusto odio dignissim qui blanditpraesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.Nam liber tempor cum soluta nobis eleifend option congue nihil imperdietdoming id quod mazim placerat facer possim assum. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo"
-                        id="test-propertyGrid-item-87"
+                        id="test-propertyGrid-item-88"
                         onChange={[Function]}
                         type="text"
                       />
@@ -3155,27 +2303,6 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-          <div
-            className="Value"
-          >
-            <label
-              className="Caption"
-              htmlFor="test-propertyGrid-item-88"
-            >
-              scene
-            </label>
-            <div
-              className="ExpanderContent"
-            >
-              <input
-                className="Editor"
-                defaultValue="scene1"
-                id="test-propertyGrid-item-88"
-                onChange={[Function]}
-                type="text"
-              />
             </div>
           </div>
           <div

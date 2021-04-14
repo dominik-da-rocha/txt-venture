@@ -4,6 +4,7 @@ import Component, { ComponentProps, ComponentState } from "./Component";
 
 export interface InventoryProps extends ComponentProps {
   inventory: string[];
+  objects: any;
 }
 
 export interface InventoryState extends ComponentState {}
@@ -23,11 +24,9 @@ export class Inventory extends Component<InventoryProps, InventoryState> {
   }
 
   renderContent() {
-    let items: any[] = [];
-    for (let i = 0; i < 100; ++i) {
-      items.push(<div key={"item" + i}>{"item" + i}</div>);
-    }
-    return items;
+    return this.props.inventory.map((object: string) => {
+      return <li key={object}>{this.props.objects[object].name}</li>;
+    });
   }
 }
 
