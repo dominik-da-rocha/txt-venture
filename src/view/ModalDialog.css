@@ -27,6 +27,7 @@
   background: #286edd;
   color: white;
   padding: 0.25rem;
+  user-select: none;
 }
 
 .ModalDialog .Dialog .Header .X {

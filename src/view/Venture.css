@@ -13,7 +13,7 @@
   grid-row: 1 / span 1;
   grid-column: 1 / span 2;
   overflow: hidden;
-  padding: 0.25rem;  
+  padding: 0.25rem;
 }
 
 .Venture > .Scene {
@@ -55,8 +55,12 @@
 
 .Venture .EditorButton {
   position: absolute;
-  right: 0.25rem;
-  top: 0.25rem;
-  font-size: 1.25rem;
+  right: 0.5rem;
+  top: 0.5rem;
+  font-size: 1.0rem;
   user-select: none;
+}
+
+.Venture .EditorButton:after {
+  content: "✏️";
 }

@@ -65,9 +65,7 @@ export class Actions extends Component<ActionsProps, ActionsState> {
           onClick={this.showDialog}
           className="EditorButton"
           id={this.makeId("editorButton")}
-        >
-          <span>✏</span>
-        </button>
+        />
       );
     } else {
       return undefined;
@@ -86,6 +84,7 @@ export class Actions extends Component<ActionsProps, ActionsState> {
           <PropertyGrid
             id={this.makeId("propertyGrid")}
             object={this.props.txt.actions}
+            objectName={"actions"}
             onChange={(object: TxtActions) => {
               this.props.onChange(object);
             }}

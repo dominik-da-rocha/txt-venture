@@ -86,11 +86,7 @@ exports[`Actions renders disabled action snapshot 1`] = `
     className="EditorButton"
     id="test-editorButton"
     onClick={[Function]}
-  >
-    <span>
-      ✏
-    </span>
-  </button>
+  />
 </div>
 `;
 
@@ -304,7 +300,7 @@ exports[`Actions renders editor snapshot 1`] = `
           id="test-propertyGrid"
         >
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
@@ -314,48 +310,60 @@ exports[`Actions renders editor snapshot 1`] = `
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-1"
             >
               giveTo
             </label>
             <div
-              className="Value ExpanderContent"
+              className="ExpanderContent"
             >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-2"
+              <div
+                className="Value"
               >
-                name
-              </label>
-              <input
-                className="Editor"
-                defaultValue="Gib"
-                id="test-propertyGrid-item-2"
-                onChange={[Function]}
-                type="text"
-              />
-            </div>
-            <div
-              className="Value ExpanderContent"
-            >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-3"
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-2"
+                >
+                  name
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="Gib"
+                    id="test-propertyGrid-item-2"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
               >
-                isEnabled
-              </label>
-              <input
-                className="Editor"
-                defaultChecked={true}
-                id="test-propertyGrid-item-3"
-                onChange={[Function]}
-                type="checkbox"
-              />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-3"
+                >
+                  isEnabled
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultChecked={true}
+                    id="test-propertyGrid-item-3"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                </div>
+              </div>
             </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
@@ -365,48 +373,60 @@ exports[`Actions renders editor snapshot 1`] = `
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-4"
             >
               open
             </label>
             <div
-              className="Value ExpanderContent"
+              className="ExpanderContent"
             >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-5"
+              <div
+                className="Value"
               >
-                name
-              </label>
-              <input
-                className="Editor"
-                defaultValue="Öffne"
-                id="test-propertyGrid-item-5"
-                onChange={[Function]}
-                type="text"
-              />
-            </div>
-            <div
-              className="Value ExpanderContent"
-            >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-6"
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-5"
+                >
+                  name
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="Öffne"
+                    id="test-propertyGrid-item-5"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
               >
-                isEnabled
-              </label>
-              <input
-                className="Editor"
-                defaultChecked={true}
-                id="test-propertyGrid-item-6"
-                onChange={[Function]}
-                type="checkbox"
-              />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-6"
+                >
+                  isEnabled
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultChecked={true}
+                    id="test-propertyGrid-item-6"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                </div>
+              </div>
             </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
@@ -416,48 +436,60 @@ exports[`Actions renders editor snapshot 1`] = `
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-7"
             >
               close
             </label>
             <div
-              className="Value ExpanderContent"
+              className="ExpanderContent"
             >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-8"
+              <div
+                className="Value"
               >
-                name
-              </label>
-              <input
-                className="Editor"
-                defaultValue="Schließe"
-                id="test-propertyGrid-item-8"
-                onChange={[Function]}
-                type="text"
-              />
-            </div>
-            <div
-              className="Value ExpanderContent"
-            >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-9"
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-8"
+                >
+                  name
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="Schließe"
+                    id="test-propertyGrid-item-8"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
               >
-                isEnabled
-              </label>
-              <input
-                className="Editor"
-                defaultChecked={true}
-                id="test-propertyGrid-item-9"
-                onChange={[Function]}
-                type="checkbox"
-              />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-9"
+                >
+                  isEnabled
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultChecked={true}
+                    id="test-propertyGrid-item-9"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                </div>
+              </div>
             </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
@@ -467,48 +499,60 @@ exports[`Actions renders editor snapshot 1`] = `
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-10"
             >
               pickUp
             </label>
             <div
-              className="Value ExpanderContent"
+              className="ExpanderContent"
             >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-11"
+              <div
+                className="Value"
               >
-                name
-              </label>
-              <input
-                className="Editor"
-                defaultValue="Nimm"
-                id="test-propertyGrid-item-11"
-                onChange={[Function]}
-                type="text"
-              />
-            </div>
-            <div
-              className="Value ExpanderContent"
-            >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-12"
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-11"
+                >
+                  name
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="Nimm"
+                    id="test-propertyGrid-item-11"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
               >
-                isEnabled
-              </label>
-              <input
-                className="Editor"
-                defaultChecked={true}
-                id="test-propertyGrid-item-12"
-                onChange={[Function]}
-                type="checkbox"
-              />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-12"
+                >
+                  isEnabled
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultChecked={true}
+                    id="test-propertyGrid-item-12"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                </div>
+              </div>
             </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
@@ -518,48 +562,60 @@ exports[`Actions renders editor snapshot 1`] = `
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-13"
             >
               lookAt
             </label>
             <div
-              className="Value ExpanderContent"
+              className="ExpanderContent"
             >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-14"
+              <div
+                className="Value"
               >
-                name
-              </label>
-              <input
-                className="Editor"
-                defaultValue="Schau"
-                id="test-propertyGrid-item-14"
-                onChange={[Function]}
-                type="text"
-              />
-            </div>
-            <div
-              className="Value ExpanderContent"
-            >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-15"
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-14"
+                >
+                  name
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="Schau"
+                    id="test-propertyGrid-item-14"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
               >
-                isEnabled
-              </label>
-              <input
-                className="Editor"
-                defaultChecked={true}
-                id="test-propertyGrid-item-15"
-                onChange={[Function]}
-                type="checkbox"
-              />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-15"
+                >
+                  isEnabled
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultChecked={true}
+                    id="test-propertyGrid-item-15"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                </div>
+              </div>
             </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
@@ -569,48 +625,60 @@ exports[`Actions renders editor snapshot 1`] = `
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-16"
             >
               talkTo
             </label>
             <div
-              className="Value ExpanderContent"
+              className="ExpanderContent"
             >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-17"
+              <div
+                className="Value"
               >
-                name
-              </label>
-              <input
-                className="Editor"
-                defaultValue="Rede mit"
-                id="test-propertyGrid-item-17"
-                onChange={[Function]}
-                type="text"
-              />
-            </div>
-            <div
-              className="Value ExpanderContent"
-            >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-18"
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-17"
+                >
+                  name
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="Rede mit"
+                    id="test-propertyGrid-item-17"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
               >
-                isEnabled
-              </label>
-              <input
-                className="Editor"
-                defaultChecked={true}
-                id="test-propertyGrid-item-18"
-                onChange={[Function]}
-                type="checkbox"
-              />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-18"
+                >
+                  isEnabled
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultChecked={true}
+                    id="test-propertyGrid-item-18"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                </div>
+              </div>
             </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
@@ -620,48 +688,60 @@ exports[`Actions renders editor snapshot 1`] = `
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-19"
             >
               push
             </label>
             <div
-              className="Value ExpanderContent"
+              className="ExpanderContent"
             >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-20"
+              <div
+                className="Value"
               >
-                name
-              </label>
-              <input
-                className="Editor"
-                defaultValue="Drücke"
-                id="test-propertyGrid-item-20"
-                onChange={[Function]}
-                type="text"
-              />
-            </div>
-            <div
-              className="Value ExpanderContent"
-            >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-21"
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-20"
+                >
+                  name
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="Drücke"
+                    id="test-propertyGrid-item-20"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
               >
-                isEnabled
-              </label>
-              <input
-                className="Editor"
-                defaultChecked={true}
-                id="test-propertyGrid-item-21"
-                onChange={[Function]}
-                type="checkbox"
-              />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-21"
+                >
+                  isEnabled
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultChecked={true}
+                    id="test-propertyGrid-item-21"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                </div>
+              </div>
             </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
@@ -671,48 +751,60 @@ exports[`Actions renders editor snapshot 1`] = `
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-22"
             >
               pull
             </label>
             <div
-              className="Value ExpanderContent"
+              className="ExpanderContent"
             >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-23"
+              <div
+                className="Value"
               >
-                name
-              </label>
-              <input
-                className="Editor"
-                defaultValue="Ziehe"
-                id="test-propertyGrid-item-23"
-                onChange={[Function]}
-                type="text"
-              />
-            </div>
-            <div
-              className="Value ExpanderContent"
-            >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-24"
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-23"
+                >
+                  name
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="Ziehe"
+                    id="test-propertyGrid-item-23"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
               >
-                isEnabled
-              </label>
-              <input
-                className="Editor"
-                defaultChecked={true}
-                id="test-propertyGrid-item-24"
-                onChange={[Function]}
-                type="checkbox"
-              />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-24"
+                >
+                  isEnabled
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultChecked={true}
+                    id="test-propertyGrid-item-24"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                </div>
+              </div>
             </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
@@ -722,48 +814,60 @@ exports[`Actions renders editor snapshot 1`] = `
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-25"
             >
               goto
             </label>
             <div
-              className="Value ExpanderContent"
+              className="ExpanderContent"
             >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-26"
+              <div
+                className="Value"
               >
-                name
-              </label>
-              <input
-                className="Editor"
-                defaultValue="Gehe zu"
-                id="test-propertyGrid-item-26"
-                onChange={[Function]}
-                type="text"
-              />
-            </div>
-            <div
-              className="Value ExpanderContent"
-            >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-27"
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-26"
+                >
+                  name
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="Gehe zu"
+                    id="test-propertyGrid-item-26"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
               >
-                isEnabled
-              </label>
-              <input
-                className="Editor"
-                defaultChecked={true}
-                id="test-propertyGrid-item-27"
-                onChange={[Function]}
-                type="checkbox"
-              />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-27"
+                >
+                  isEnabled
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultChecked={true}
+                    id="test-propertyGrid-item-27"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                </div>
+              </div>
             </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
@@ -773,48 +877,60 @@ exports[`Actions renders editor snapshot 1`] = `
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-28"
             >
               use
             </label>
             <div
-              className="Value ExpanderContent"
+              className="ExpanderContent"
             >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-29"
+              <div
+                className="Value"
               >
-                name
-              </label>
-              <input
-                className="Editor"
-                defaultValue="Benutze"
-                id="test-propertyGrid-item-29"
-                onChange={[Function]}
-                type="text"
-              />
-            </div>
-            <div
-              className="Value ExpanderContent"
-            >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-30"
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-29"
+                >
+                  name
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="Benutze"
+                    id="test-propertyGrid-item-29"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
               >
-                isEnabled
-              </label>
-              <input
-                className="Editor"
-                defaultChecked={true}
-                id="test-propertyGrid-item-30"
-                onChange={[Function]}
-                type="checkbox"
-              />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-30"
+                >
+                  isEnabled
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultChecked={true}
+                    id="test-propertyGrid-item-30"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                </div>
+              </div>
             </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
@@ -824,48 +940,60 @@ exports[`Actions renders editor snapshot 1`] = `
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-31"
             >
               save
             </label>
             <div
-              className="Value ExpanderContent"
+              className="ExpanderContent"
             >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-32"
+              <div
+                className="Value"
               >
-                name
-              </label>
-              <input
-                className="Editor"
-                defaultValue="Speichern"
-                id="test-propertyGrid-item-32"
-                onChange={[Function]}
-                type="text"
-              />
-            </div>
-            <div
-              className="Value ExpanderContent"
-            >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-33"
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-32"
+                >
+                  name
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="Speichern"
+                    id="test-propertyGrid-item-32"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
               >
-                isEnabled
-              </label>
-              <input
-                className="Editor"
-                defaultChecked={true}
-                id="test-propertyGrid-item-33"
-                onChange={[Function]}
-                type="checkbox"
-              />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-33"
+                >
+                  isEnabled
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultChecked={true}
+                    id="test-propertyGrid-item-33"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                </div>
+              </div>
             </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
@@ -875,44 +1003,56 @@ exports[`Actions renders editor snapshot 1`] = `
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-34"
             >
               load
             </label>
             <div
-              className="Value ExpanderContent"
+              className="ExpanderContent"
             >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-35"
+              <div
+                className="Value"
               >
-                name
-              </label>
-              <input
-                className="Editor"
-                defaultValue="Laden"
-                id="test-propertyGrid-item-35"
-                onChange={[Function]}
-                type="text"
-              />
-            </div>
-            <div
-              className="Value ExpanderContent"
-            >
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-36"
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-35"
+                >
+                  name
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="Laden"
+                    id="test-propertyGrid-item-35"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
               >
-                isEnabled
-              </label>
-              <input
-                className="Editor"
-                defaultChecked={true}
-                id="test-propertyGrid-item-36"
-                onChange={[Function]}
-                type="checkbox"
-              />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-36"
+                >
+                  isEnabled
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultChecked={true}
+                    id="test-propertyGrid-item-36"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -1031,10 +1171,6 @@ exports[`Actions renders snapshot 1`] = `
     className="EditorButton"
     id="test-editorButton"
     onClick={[Function]}
-  >
-    <span>
-      ✏
-    </span>
-  </button>
+  />
 </div>
 `;

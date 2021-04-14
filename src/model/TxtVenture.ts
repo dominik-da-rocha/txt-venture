@@ -1,33 +1,21 @@
-export interface TxtObject {}
+import { loremIpsum } from "./Lorem";
 
-export interface TxtPerson extends TxtObject {}
-
-export interface TxtScene extends TxtObject {}
-
-export interface TxtAction extends TxtObject {
+export interface TxtObject {
   name: string;
-  isEnabled: boolean;
 }
 
-export interface TxtActions extends TxtObject {
-  giveTo: TxtAction;
-  open: TxtAction;
-  close: TxtAction;
-  pickUp: TxtAction;
-  lookAt: TxtAction;
-  talkTo: TxtAction;
-  push: TxtAction;
-  pull: TxtAction;
-  goto: TxtAction;
-  use: TxtAction;
-  save: TxtAction;
-  load: TxtAction;
+export interface TxtScene extends TxtObject {
+  content: string;
+}
+
+export interface TxtAction extends TxtObject {
+  isEnabled: boolean;
 }
 
 export class TxtVenture {
   title: string = "TextVenture";
   isEditor: boolean = true;
-  actions: TxtActions = {
+  actions: any = {
     giveTo: { name: "Gib", isEnabled: true },
     open: { name: "Öffne", isEnabled: true },
     close: { name: "Schließe", isEnabled: true },
@@ -41,11 +29,32 @@ export class TxtVenture {
     save: { name: "Speichern", isEnabled: true },
     load: { name: "Laden", isEnabled: true },
   };
-  objects: TxtObject[] = [];
-  persons: TxtPerson[] = [];
-  inventory: TxtObject[] = [];
-  scenes: TxtScene[] = [];
-  scene: TxtScene | null = null;
+  objects: any = {
+    object1: { name: "Object 1" },
+    object2: { name: "Object 2" },
+    object3: { name: "Object 3" },
+    object4: { name: "Object 4" },
+    object5: { name: "Object 5" },
+    object6: { name: "Object 6" },
+    object7: { name: "Object 7" },
+    object8: { name: "Object 8" },
+    object9: { name: "Object 9" },
+    object10: { name: "Object 10" },
+    object11: { name: "Object 11" },
+    object12: { name: "Object 12" },
+    object13: { name: "Object 13" },
+    object14: { name: "Object 14" },
+    object15: { name: "Object 15" },
+    object16: { name: "Object 16" },
+  };
+  persons: any = {
+    person1: { name: "Person 1" },
+    person2: { name: "Person 2" },
+    person3: { name: "Person 3" },
+  };
+  inventory: string[] = ["object1", "object2", "object3"];
+  scenes: any = { scene1: { name: "Scene 1", content: loremIpsum } };
+  scene: string = "scene1";
   logBook: string[] = [];
 
   static action(txt: TxtVenture, action: TxtAction) {

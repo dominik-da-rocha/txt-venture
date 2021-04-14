@@ -24,9 +24,7 @@ exports[`Venture renders snapshot 1`] = `
     <div
       className="Content"
     >
-      <p>
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat. Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
-      </p>
+      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit essemolestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eroset accumsan et iusto odio dignissim qui blandit praesent luptatum zzrildelenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis at vero eros et accumsan et iusto odio dignissim qui blanditpraesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.Nam liber tempor cum soluta nobis eleifend option congue nihil imperdietdoming id quod mazim placerat facer possim assum. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusamaliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed temporet et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum.sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat. Consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus estLorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus estLorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit essemolestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eroset accumsan et iusto odio dignissim qui blandit praesent luptatum zzrildelenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis at vero eros et accumsan et iusto odio dignissim qui blanditpraesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.Nam liber tempor cum soluta nobis eleifend option congue nihil imperdietdoming id quod mazim placerat facer possim assum. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo
     </div>
   </div>
   <div
@@ -461,9 +459,7 @@ exports[`Venture renders with no editor 1`] = `
     <div
       className="Content"
     >
-      <p>
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat. Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
-      </p>
+      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit essemolestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eroset accumsan et iusto odio dignissim qui blandit praesent luptatum zzrildelenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis at vero eros et accumsan et iusto odio dignissim qui blanditpraesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.Nam liber tempor cum soluta nobis eleifend option congue nihil imperdietdoming id quod mazim placerat facer possim assum. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusamaliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed temporet et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum.sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat. Consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus estLorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus estLorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit essemolestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eroset accumsan et iusto odio dignissim qui blandit praesent luptatum zzrildelenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis at vero eros et accumsan et iusto odio dignissim qui blanditpraesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.Nam liber tempor cum soluta nobis eleifend option congue nihil imperdietdoming id quod mazim placerat facer possim assum. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo
     </div>
   </div>
   <div
@@ -898,9 +894,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
     <div
       className="Content"
     >
-      <p>
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat. Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
-      </p>
+      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit essemolestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eroset accumsan et iusto odio dignissim qui blandit praesent luptatum zzrildelenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis at vero eros et accumsan et iusto odio dignissim qui blanditpraesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.Nam liber tempor cum soluta nobis eleifend option congue nihil imperdietdoming id quod mazim placerat facer possim assum. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusamaliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed temporet et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum.sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat. Consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus estLorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus estLorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit essemolestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eroset accumsan et iusto odio dignissim qui blandit praesent luptatum zzrildelenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis at vero eros et accumsan et iusto odio dignissim qui blanditpraesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.Nam liber tempor cum soluta nobis eleifend option congue nihil imperdietdoming id quod mazim placerat facer possim assum. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo
     </div>
   </div>
   <div
@@ -1319,7 +1313,7 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
         className="Header"
       >
         <span>
-          Actions
+          Venture
         </span>
         <span
           className="X"
@@ -1337,41 +1331,49 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
           id="test-propertyGrid"
         >
           <div
-            className="Value ExpanderContent"
+            className="Value"
           >
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-1"
             >
               title
             </label>
-            <input
-              className="Editor"
-              defaultValue="TextVenture"
-              id="test-propertyGrid-item-1"
-              onChange={[Function]}
-              type="text"
-            />
+            <div
+              className="ExpanderContent"
+            >
+              <input
+                className="Editor"
+                defaultValue="TextVenture"
+                id="test-propertyGrid-item-1"
+                onChange={[Function]}
+                type="text"
+              />
+            </div>
           </div>
           <div
-            className="Value ExpanderContent"
+            className="Value"
           >
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-2"
             >
               isEditor
             </label>
-            <input
-              className="Editor"
-              defaultChecked={false}
-              id="test-propertyGrid-item-2"
-              onChange={[Function]}
-              type="checkbox"
-            />
+            <div
+              className="ExpanderContent"
+            >
+              <input
+                className="Editor"
+                defaultChecked={false}
+                id="test-propertyGrid-item-2"
+                onChange={[Function]}
+                type="checkbox"
+              />
+            </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
@@ -1381,626 +1383,774 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-3"
             >
               actions
             </label>
             <div
-              className="Object ExpanderContent"
+              className="ExpanderContent"
             >
-              <input
-                className="Expander"
-                defaultChecked={true}
-                id="test-propertyGrid-item-4"
-                onChange={[Function]}
-                type="checkbox"
-              />
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-4"
-              >
-                giveTo
-              </label>
               <div
-                className="Value ExpanderContent"
+                className="Object"
               >
-                <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-5"
-                >
-                  name
-                </label>
                 <input
-                  className="Editor"
-                  defaultValue="Gib"
-                  id="test-propertyGrid-item-5"
-                  onChange={[Function]}
-                  type="text"
-                />
-              </div>
-              <div
-                className="Value ExpanderContent"
-              >
-                <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-6"
-                >
-                  isEnabled
-                </label>
-                <input
-                  className="Editor"
+                  className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-6"
+                  id="test-propertyGrid-item-4"
                   onChange={[Function]}
                   type="checkbox"
                 />
-              </div>
-            </div>
-            <div
-              className="Object ExpanderContent"
-            >
-              <input
-                className="Expander"
-                defaultChecked={true}
-                id="test-propertyGrid-item-7"
-                onChange={[Function]}
-                type="checkbox"
-              />
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-7"
-              >
-                open
-              </label>
-              <div
-                className="Value ExpanderContent"
-              >
                 <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-8"
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-4"
                 >
-                  name
+                  giveTo
                 </label>
-                <input
-                  className="Editor"
-                  defaultValue="Öffne"
-                  id="test-propertyGrid-item-8"
-                  onChange={[Function]}
-                  type="text"
-                />
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-5"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Gib"
+                        id="test-propertyGrid-item-5"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-6"
+                    >
+                      isEnabled
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultChecked={true}
+                        id="test-propertyGrid-item-6"
+                        onChange={[Function]}
+                        type="checkbox"
+                      />
+                    </div>
+                  </div>
+                </div>
               </div>
               <div
-                className="Value ExpanderContent"
+                className="Object"
               >
-                <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-9"
-                >
-                  isEnabled
-                </label>
                 <input
-                  className="Editor"
+                  className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-9"
+                  id="test-propertyGrid-item-7"
                   onChange={[Function]}
                   type="checkbox"
                 />
-              </div>
-            </div>
-            <div
-              className="Object ExpanderContent"
-            >
-              <input
-                className="Expander"
-                defaultChecked={true}
-                id="test-propertyGrid-item-10"
-                onChange={[Function]}
-                type="checkbox"
-              />
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-10"
-              >
-                close
-              </label>
-              <div
-                className="Value ExpanderContent"
-              >
                 <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-11"
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-7"
                 >
-                  name
+                  open
                 </label>
-                <input
-                  className="Editor"
-                  defaultValue="Schließe"
-                  id="test-propertyGrid-item-11"
-                  onChange={[Function]}
-                  type="text"
-                />
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-8"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Öffne"
+                        id="test-propertyGrid-item-8"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-9"
+                    >
+                      isEnabled
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultChecked={true}
+                        id="test-propertyGrid-item-9"
+                        onChange={[Function]}
+                        type="checkbox"
+                      />
+                    </div>
+                  </div>
+                </div>
               </div>
               <div
-                className="Value ExpanderContent"
+                className="Object"
               >
-                <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-12"
-                >
-                  isEnabled
-                </label>
                 <input
-                  className="Editor"
+                  className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-12"
+                  id="test-propertyGrid-item-10"
                   onChange={[Function]}
                   type="checkbox"
                 />
-              </div>
-            </div>
-            <div
-              className="Object ExpanderContent"
-            >
-              <input
-                className="Expander"
-                defaultChecked={true}
-                id="test-propertyGrid-item-13"
-                onChange={[Function]}
-                type="checkbox"
-              />
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-13"
-              >
-                pickUp
-              </label>
-              <div
-                className="Value ExpanderContent"
-              >
                 <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-14"
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-10"
                 >
-                  name
+                  close
                 </label>
-                <input
-                  className="Editor"
-                  defaultValue="Nimm"
-                  id="test-propertyGrid-item-14"
-                  onChange={[Function]}
-                  type="text"
-                />
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-11"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Schließe"
+                        id="test-propertyGrid-item-11"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-12"
+                    >
+                      isEnabled
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultChecked={true}
+                        id="test-propertyGrid-item-12"
+                        onChange={[Function]}
+                        type="checkbox"
+                      />
+                    </div>
+                  </div>
+                </div>
               </div>
               <div
-                className="Value ExpanderContent"
+                className="Object"
               >
-                <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-15"
-                >
-                  isEnabled
-                </label>
                 <input
-                  className="Editor"
+                  className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-15"
+                  id="test-propertyGrid-item-13"
                   onChange={[Function]}
                   type="checkbox"
                 />
-              </div>
-            </div>
-            <div
-              className="Object ExpanderContent"
-            >
-              <input
-                className="Expander"
-                defaultChecked={true}
-                id="test-propertyGrid-item-16"
-                onChange={[Function]}
-                type="checkbox"
-              />
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-16"
-              >
-                lookAt
-              </label>
-              <div
-                className="Value ExpanderContent"
-              >
                 <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-17"
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-13"
                 >
-                  name
+                  pickUp
                 </label>
-                <input
-                  className="Editor"
-                  defaultValue="Schau"
-                  id="test-propertyGrid-item-17"
-                  onChange={[Function]}
-                  type="text"
-                />
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-14"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Nimm"
+                        id="test-propertyGrid-item-14"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-15"
+                    >
+                      isEnabled
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultChecked={true}
+                        id="test-propertyGrid-item-15"
+                        onChange={[Function]}
+                        type="checkbox"
+                      />
+                    </div>
+                  </div>
+                </div>
               </div>
               <div
-                className="Value ExpanderContent"
+                className="Object"
               >
-                <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-18"
-                >
-                  isEnabled
-                </label>
                 <input
-                  className="Editor"
+                  className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-18"
+                  id="test-propertyGrid-item-16"
                   onChange={[Function]}
                   type="checkbox"
                 />
-              </div>
-            </div>
-            <div
-              className="Object ExpanderContent"
-            >
-              <input
-                className="Expander"
-                defaultChecked={true}
-                id="test-propertyGrid-item-19"
-                onChange={[Function]}
-                type="checkbox"
-              />
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-19"
-              >
-                talkTo
-              </label>
-              <div
-                className="Value ExpanderContent"
-              >
                 <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-20"
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-16"
                 >
-                  name
+                  lookAt
                 </label>
-                <input
-                  className="Editor"
-                  defaultValue="Rede mit"
-                  id="test-propertyGrid-item-20"
-                  onChange={[Function]}
-                  type="text"
-                />
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-17"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Schau"
+                        id="test-propertyGrid-item-17"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-18"
+                    >
+                      isEnabled
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultChecked={true}
+                        id="test-propertyGrid-item-18"
+                        onChange={[Function]}
+                        type="checkbox"
+                      />
+                    </div>
+                  </div>
+                </div>
               </div>
               <div
-                className="Value ExpanderContent"
+                className="Object"
               >
-                <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-21"
-                >
-                  isEnabled
-                </label>
                 <input
-                  className="Editor"
+                  className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-21"
+                  id="test-propertyGrid-item-19"
                   onChange={[Function]}
                   type="checkbox"
                 />
-              </div>
-            </div>
-            <div
-              className="Object ExpanderContent"
-            >
-              <input
-                className="Expander"
-                defaultChecked={true}
-                id="test-propertyGrid-item-22"
-                onChange={[Function]}
-                type="checkbox"
-              />
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-22"
-              >
-                push
-              </label>
-              <div
-                className="Value ExpanderContent"
-              >
                 <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-23"
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-19"
                 >
-                  name
+                  talkTo
                 </label>
-                <input
-                  className="Editor"
-                  defaultValue="Drücke"
-                  id="test-propertyGrid-item-23"
-                  onChange={[Function]}
-                  type="text"
-                />
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-20"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Rede mit"
+                        id="test-propertyGrid-item-20"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-21"
+                    >
+                      isEnabled
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultChecked={true}
+                        id="test-propertyGrid-item-21"
+                        onChange={[Function]}
+                        type="checkbox"
+                      />
+                    </div>
+                  </div>
+                </div>
               </div>
               <div
-                className="Value ExpanderContent"
+                className="Object"
               >
-                <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-24"
-                >
-                  isEnabled
-                </label>
                 <input
-                  className="Editor"
+                  className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-24"
+                  id="test-propertyGrid-item-22"
                   onChange={[Function]}
                   type="checkbox"
                 />
-              </div>
-            </div>
-            <div
-              className="Object ExpanderContent"
-            >
-              <input
-                className="Expander"
-                defaultChecked={true}
-                id="test-propertyGrid-item-25"
-                onChange={[Function]}
-                type="checkbox"
-              />
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-25"
-              >
-                pull
-              </label>
-              <div
-                className="Value ExpanderContent"
-              >
                 <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-26"
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-22"
                 >
-                  name
+                  push
                 </label>
-                <input
-                  className="Editor"
-                  defaultValue="Ziehe"
-                  id="test-propertyGrid-item-26"
-                  onChange={[Function]}
-                  type="text"
-                />
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-23"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Drücke"
+                        id="test-propertyGrid-item-23"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-24"
+                    >
+                      isEnabled
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultChecked={true}
+                        id="test-propertyGrid-item-24"
+                        onChange={[Function]}
+                        type="checkbox"
+                      />
+                    </div>
+                  </div>
+                </div>
               </div>
               <div
-                className="Value ExpanderContent"
+                className="Object"
               >
-                <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-27"
-                >
-                  isEnabled
-                </label>
                 <input
-                  className="Editor"
+                  className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-27"
+                  id="test-propertyGrid-item-25"
                   onChange={[Function]}
                   type="checkbox"
                 />
-              </div>
-            </div>
-            <div
-              className="Object ExpanderContent"
-            >
-              <input
-                className="Expander"
-                defaultChecked={true}
-                id="test-propertyGrid-item-28"
-                onChange={[Function]}
-                type="checkbox"
-              />
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-28"
-              >
-                goto
-              </label>
-              <div
-                className="Value ExpanderContent"
-              >
                 <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-29"
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-25"
                 >
-                  name
+                  pull
                 </label>
-                <input
-                  className="Editor"
-                  defaultValue="Gehe zu"
-                  id="test-propertyGrid-item-29"
-                  onChange={[Function]}
-                  type="text"
-                />
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-26"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Ziehe"
+                        id="test-propertyGrid-item-26"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-27"
+                    >
+                      isEnabled
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultChecked={true}
+                        id="test-propertyGrid-item-27"
+                        onChange={[Function]}
+                        type="checkbox"
+                      />
+                    </div>
+                  </div>
+                </div>
               </div>
               <div
-                className="Value ExpanderContent"
+                className="Object"
               >
-                <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-30"
-                >
-                  isEnabled
-                </label>
                 <input
-                  className="Editor"
+                  className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-30"
+                  id="test-propertyGrid-item-28"
                   onChange={[Function]}
                   type="checkbox"
                 />
-              </div>
-            </div>
-            <div
-              className="Object ExpanderContent"
-            >
-              <input
-                className="Expander"
-                defaultChecked={true}
-                id="test-propertyGrid-item-31"
-                onChange={[Function]}
-                type="checkbox"
-              />
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-31"
-              >
-                use
-              </label>
-              <div
-                className="Value ExpanderContent"
-              >
                 <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-32"
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-28"
                 >
-                  name
+                  goto
                 </label>
-                <input
-                  className="Editor"
-                  defaultValue="Benutze"
-                  id="test-propertyGrid-item-32"
-                  onChange={[Function]}
-                  type="text"
-                />
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-29"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Gehe zu"
+                        id="test-propertyGrid-item-29"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-30"
+                    >
+                      isEnabled
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultChecked={true}
+                        id="test-propertyGrid-item-30"
+                        onChange={[Function]}
+                        type="checkbox"
+                      />
+                    </div>
+                  </div>
+                </div>
               </div>
               <div
-                className="Value ExpanderContent"
+                className="Object"
               >
-                <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-33"
-                >
-                  isEnabled
-                </label>
                 <input
-                  className="Editor"
+                  className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-33"
+                  id="test-propertyGrid-item-31"
                   onChange={[Function]}
                   type="checkbox"
                 />
-              </div>
-            </div>
-            <div
-              className="Object ExpanderContent"
-            >
-              <input
-                className="Expander"
-                defaultChecked={true}
-                id="test-propertyGrid-item-34"
-                onChange={[Function]}
-                type="checkbox"
-              />
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-34"
-              >
-                save
-              </label>
-              <div
-                className="Value ExpanderContent"
-              >
                 <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-35"
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-31"
                 >
-                  name
+                  use
                 </label>
-                <input
-                  className="Editor"
-                  defaultValue="Speichern"
-                  id="test-propertyGrid-item-35"
-                  onChange={[Function]}
-                  type="text"
-                />
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-32"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Benutze"
+                        id="test-propertyGrid-item-32"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-33"
+                    >
+                      isEnabled
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultChecked={true}
+                        id="test-propertyGrid-item-33"
+                        onChange={[Function]}
+                        type="checkbox"
+                      />
+                    </div>
+                  </div>
+                </div>
               </div>
               <div
-                className="Value ExpanderContent"
+                className="Object"
               >
-                <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-36"
-                >
-                  isEnabled
-                </label>
                 <input
-                  className="Editor"
+                  className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-36"
+                  id="test-propertyGrid-item-34"
                   onChange={[Function]}
                   type="checkbox"
                 />
-              </div>
-            </div>
-            <div
-              className="Object ExpanderContent"
-            >
-              <input
-                className="Expander"
-                defaultChecked={true}
-                id="test-propertyGrid-item-37"
-                onChange={[Function]}
-                type="checkbox"
-              />
-              <label
-                className="ExpanderLabel"
-                htmlFor="test-propertyGrid-item-37"
-              >
-                load
-              </label>
-              <div
-                className="Value ExpanderContent"
-              >
                 <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-38"
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-34"
                 >
-                  name
+                  save
                 </label>
-                <input
-                  className="Editor"
-                  defaultValue="Laden"
-                  id="test-propertyGrid-item-38"
-                  onChange={[Function]}
-                  type="text"
-                />
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-35"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Speichern"
+                        id="test-propertyGrid-item-35"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-36"
+                    >
+                      isEnabled
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultChecked={true}
+                        id="test-propertyGrid-item-36"
+                        onChange={[Function]}
+                        type="checkbox"
+                      />
+                    </div>
+                  </div>
+                </div>
               </div>
               <div
-                className="Value ExpanderContent"
+                className="Object"
               >
-                <label
-                  className="ExpanderLabel"
-                  htmlFor="test-propertyGrid-item-39"
-                >
-                  isEnabled
-                </label>
                 <input
-                  className="Editor"
+                  className="Expander"
                   defaultChecked={true}
-                  id="test-propertyGrid-item-39"
+                  id="test-propertyGrid-item-37"
                   onChange={[Function]}
                   type="checkbox"
                 />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-37"
+                >
+                  load
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-38"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Laden"
+                        id="test-propertyGrid-item-38"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-39"
+                    >
+                      isEnabled
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultChecked={true}
+                        id="test-propertyGrid-item-39"
+                        onChange={[Function]}
+                        type="checkbox"
+                      />
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
@@ -2010,96 +2160,1043 @@ exports[`Venture renders with venture dialog snapshot 1`] = `
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
+              className="Caption"
               htmlFor="test-propertyGrid-item-40"
             >
               objects
             </label>
+            <div
+              className="ExpanderContent"
+            >
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-41"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-41"
+                >
+                  object1
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-42"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 1"
+                        id="test-propertyGrid-item-42"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-43"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-43"
+                >
+                  object2
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-44"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 2"
+                        id="test-propertyGrid-item-44"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-45"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-45"
+                >
+                  object3
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-46"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 3"
+                        id="test-propertyGrid-item-46"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-47"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-47"
+                >
+                  object4
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-48"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 4"
+                        id="test-propertyGrid-item-48"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-49"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-49"
+                >
+                  object5
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-50"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 5"
+                        id="test-propertyGrid-item-50"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-51"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-51"
+                >
+                  object6
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-52"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 6"
+                        id="test-propertyGrid-item-52"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-53"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-53"
+                >
+                  object7
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-54"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 7"
+                        id="test-propertyGrid-item-54"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-55"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-55"
+                >
+                  object8
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-56"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 8"
+                        id="test-propertyGrid-item-56"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-57"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-57"
+                >
+                  object9
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-58"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 9"
+                        id="test-propertyGrid-item-58"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-59"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-59"
+                >
+                  object10
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-60"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 10"
+                        id="test-propertyGrid-item-60"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-61"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-61"
+                >
+                  object11
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-62"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 11"
+                        id="test-propertyGrid-item-62"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-63"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-63"
+                >
+                  object12
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-64"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 12"
+                        id="test-propertyGrid-item-64"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-65"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-65"
+                >
+                  object13
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-66"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 13"
+                        id="test-propertyGrid-item-66"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-67"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-67"
+                >
+                  object14
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-68"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 14"
+                        id="test-propertyGrid-item-68"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-69"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-69"
+                >
+                  object15
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-70"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 15"
+                        id="test-propertyGrid-item-70"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-71"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-71"
+                >
+                  object16
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-72"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Object 16"
+                        id="test-propertyGrid-item-72"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
               defaultChecked={true}
-              id="test-propertyGrid-item-41"
+              id="test-propertyGrid-item-73"
               onChange={[Function]}
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
-              htmlFor="test-propertyGrid-item-41"
+              className="Caption"
+              htmlFor="test-propertyGrid-item-73"
             >
               persons
             </label>
+            <div
+              className="ExpanderContent"
+            >
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-74"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-74"
+                >
+                  person1
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-75"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Person 1"
+                        id="test-propertyGrid-item-75"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-76"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-76"
+                >
+                  person2
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-77"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Person 2"
+                        id="test-propertyGrid-item-77"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-78"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-78"
+                >
+                  person3
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-79"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Person 3"
+                        id="test-propertyGrid-item-79"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
               defaultChecked={true}
-              id="test-propertyGrid-item-42"
+              id="test-propertyGrid-item-80"
               onChange={[Function]}
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
-              htmlFor="test-propertyGrid-item-42"
+              className="Caption"
+              htmlFor="test-propertyGrid-item-80"
             >
               inventory
             </label>
+            <div
+              className="ExpanderContent"
+            >
+              <div
+                className="Value"
+              >
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-81"
+                >
+                  0
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="object1"
+                    id="test-propertyGrid-item-81"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
+              >
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-82"
+                >
+                  1
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="object2"
+                    id="test-propertyGrid-item-82"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="Value"
+              >
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-83"
+                >
+                  2
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <input
+                    className="Editor"
+                    defaultValue="object3"
+                    id="test-propertyGrid-item-83"
+                    onChange={[Function]}
+                    type="text"
+                  />
+                </div>
+              </div>
+            </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
               defaultChecked={true}
-              id="test-propertyGrid-item-43"
+              id="test-propertyGrid-item-84"
               onChange={[Function]}
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
-              htmlFor="test-propertyGrid-item-43"
+              className="Caption"
+              htmlFor="test-propertyGrid-item-84"
             >
               scenes
             </label>
+            <div
+              className="ExpanderContent"
+            >
+              <div
+                className="Object"
+              >
+                <input
+                  className="Expander"
+                  defaultChecked={true}
+                  id="test-propertyGrid-item-85"
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <label
+                  className="Caption"
+                  htmlFor="test-propertyGrid-item-85"
+                >
+                  scene1
+                </label>
+                <div
+                  className="ExpanderContent"
+                >
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-86"
+                    >
+                      name
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Scene 1"
+                        id="test-propertyGrid-item-86"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="Value"
+                  >
+                    <label
+                      className="Caption"
+                      htmlFor="test-propertyGrid-item-87"
+                    >
+                      content
+                    </label>
+                    <div
+                      className="ExpanderContent"
+                    >
+                      <input
+                        className="Editor"
+                        defaultValue="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit essemolestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eroset accumsan et iusto odio dignissim qui blandit praesent luptatum zzrildelenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis at vero eros et accumsan et iusto odio dignissim qui blanditpraesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.Nam liber tempor cum soluta nobis eleifend option congue nihil imperdietdoming id quod mazim placerat facer possim assum. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusamaliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed temporet et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum.sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat. Consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus estLorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus estLorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetursadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duodolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diamnonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, seddiam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stetclita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sitamet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit essemolestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eroset accumsan et iusto odio dignissim qui blandit praesent luptatum zzrildelenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo consequat. Duis autem vel eum iriure dolor in hendrerit invulputate velit esse molestie consequat, vel illum dolore eu feugiat nullafacilisis at vero eros et accumsan et iusto odio dignissim qui blanditpraesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.Nam liber tempor cum soluta nobis eleifend option congue nihil imperdietdoming id quod mazim placerat facer possim assum. Lorem ipsum dolor sitamet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinciduntut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip exea commodo"
+                        id="test-propertyGrid-item-87"
+                        onChange={[Function]}
+                        type="text"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Value"
           >
-            <input
-              className="Expander"
-              defaultChecked={true}
-              id="test-propertyGrid-item-44"
-              onChange={[Function]}
-              type="checkbox"
-            />
             <label
-              className="ExpanderLabel"
-              htmlFor="test-propertyGrid-item-44"
+              className="Caption"
+              htmlFor="test-propertyGrid-item-88"
             >
               scene
             </label>
+            <div
+              className="ExpanderContent"
+            >
+              <input
+                className="Editor"
+                defaultValue="scene1"
+                id="test-propertyGrid-item-88"
+                onChange={[Function]}
+                type="text"
+              />
+            </div>
           </div>
           <div
-            className="Object ExpanderContent"
+            className="Object"
           >
             <input
               className="Expander"
               defaultChecked={true}
-              id="test-propertyGrid-item-45"
+              id="test-propertyGrid-item-89"
               onChange={[Function]}
               type="checkbox"
             />
             <label
-              className="ExpanderLabel"
-              htmlFor="test-propertyGrid-item-45"
+              className="Caption"
+              htmlFor="test-propertyGrid-item-89"
             >
               logBook
             </label>
+            <div
+              className="ExpanderContent"
+            />
           </div>
         </div>
       </div>

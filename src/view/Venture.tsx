@@ -5,7 +5,7 @@ import Scene from "./Scene";
 import Inventory from "./Inventory";
 import Actions from "./Actions";
 import Console from "./Console";
-import TxtVenture, { TxtAction, TxtActions } from "../model/TxtVenture";
+import TxtVenture, { TxtAction } from "../model/TxtVenture";
 import { ModalDialog } from "./ModalDialog";
 import PropertyGrid from "./PropertyGrid";
 
@@ -45,7 +45,9 @@ export class Venture extends Component<VentureProps, VentureState> {
             {this.renderEditButtonVenture()}
           </h1>
         </div>
-        <Scene id={this.makeId("scene")} scene={this.state.txt.scene} />
+        
+        <Scene id={this.makeId("scene")} scene={this.state.txt.scenes[this.state.txt.scene]} />
+        
         <Inventory
           id={this.makeId("inventory")}
           inventory={this.state.txt.inventory}
@@ -60,7 +62,7 @@ export class Venture extends Component<VentureProps, VentureState> {
               return state;
             });
           }}
-          onChange={(actions: TxtActions) => {
+          onChange={(actions: any) => {
             this.setState((state: VentureState) => {
               state.txt.actions = actions;
               return state;
@@ -74,13 +76,13 @@ export class Venture extends Component<VentureProps, VentureState> {
       </div>
     );
   }
-  
+
   renderVentureDialog() {
     if (this.state.showVentureDialog) {
       return (
         <ModalDialog
           id={this.makeId("dialog")}
-          title="Actions"
+          title="Venture"
           onCancel={this.hideDialog}
           onOkay={this.hideDialog}
         >
@@ -102,9 +104,11 @@ export class Venture extends Component<VentureProps, VentureState> {
   renderEditButtonVenture() {
     if (this.state.txt.isEditor) {
       return (
-        <button onClick={this.showDialogVenture} id={this.makeId("showDialogVenture")} className="EditorButton">
-          <span>✏</span>
-        </button>
+        <button
+          onClick={this.showDialogVenture}
+          id={this.makeId("showDialogVenture")}
+          className="EditorButton"
+        />
       );
     } else {
       return undefined;

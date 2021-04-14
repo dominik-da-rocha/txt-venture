@@ -1,10 +1,9 @@
 import "./Inventory.css";
 import React from "react";
 import Component, { ComponentProps, ComponentState } from "./Component";
-import { TxtObject } from "../model/TxtVenture";
 
 export interface InventoryProps extends ComponentProps {
-  inventory: TxtObject[];
+  inventory: string[];
 }
 
 export interface InventoryState extends ComponentState {}

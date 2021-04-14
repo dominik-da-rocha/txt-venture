@@ -6,58 +6,70 @@ exports[`PropertyGrid renders snapshot 1`] = `
   id="test"
 >
   <div
-    className="Value ExpanderContent"
+    className="Value"
   >
     <label
-      className="ExpanderLabel"
+      className="Caption"
       htmlFor="test-item-1"
     >
       state
     </label>
-    <input
-      className="Editor"
-      defaultChecked={false}
-      id="test-item-1"
-      onChange={[Function]}
-      type="checkbox"
-    />
+    <div
+      className="ExpanderContent"
+    >
+      <input
+        className="Editor"
+        defaultChecked={false}
+        id="test-item-1"
+        onChange={[Function]}
+        type="checkbox"
+      />
+    </div>
   </div>
   <div
-    className="Value ExpanderContent"
+    className="Value"
   >
     <label
-      className="ExpanderLabel"
+      className="Caption"
       htmlFor="test-item-2"
     >
       text
     </label>
-    <input
-      className="Editor"
-      defaultValue="test"
-      id="test-item-2"
-      onChange={[Function]}
-      type="text"
-    />
+    <div
+      className="ExpanderContent"
+    >
+      <input
+        className="Editor"
+        defaultValue="test"
+        id="test-item-2"
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
   </div>
   <div
-    className="Value ExpanderContent"
+    className="Value"
   >
     <label
-      className="ExpanderLabel"
+      className="Caption"
       htmlFor="test-item-3"
     >
       count
     </label>
-    <input
-      className="Editor"
-      defaultValue="1"
-      id="test-item-3"
-      onChange={[Function]}
-      type="number"
-    />
+    <div
+      className="ExpanderContent"
+    >
+      <input
+        className="Editor"
+        defaultValue="1"
+        id="test-item-3"
+        onChange={[Function]}
+        type="number"
+      />
+    </div>
   </div>
   <div
-    className="Object ExpanderContent"
+    className="Object"
   >
     <input
       className="Expander"
@@ -67,27 +79,35 @@ exports[`PropertyGrid renders snapshot 1`] = `
       type="checkbox"
     />
     <label
-      className="ExpanderLabel"
+      className="Caption"
       htmlFor="test-item-4"
     >
       child
     </label>
     <div
-      className="Value ExpanderContent"
+      className="ExpanderContent"
     >
-      <label
-        className="ExpanderLabel"
-        htmlFor="test-item-5"
+      <div
+        className="Value"
       >
-        value
-      </label>
-      <input
-        className="Editor"
-        defaultChecked={false}
-        id="test-item-5"
-        onChange={[Function]}
-        type="checkbox"
-      />
+        <label
+          className="Caption"
+          htmlFor="test-item-5"
+        >
+          value
+        </label>
+        <div
+          className="ExpanderContent"
+        >
+          <input
+            className="Editor"
+            defaultChecked={false}
+            id="test-item-5"
+            onChange={[Function]}
+            type="checkbox"
+          />
+        </div>
+      </div>
     </div>
   </div>
 </div>

@@ -43,12 +43,14 @@ export class PropertyGrid extends Component<
         let key = "item-" + ++this.key;
         let id = this.makeId(key);
         items.push(
-          <div key={key} className={type + " ExpanderContent"}>
+          <div key={key} className={type}>
             {this.renderExpander(type, id, key)}
-            <label className="ExpanderLabel" htmlFor={id}>
+            <label className="Caption" htmlFor={id}>
               {name}
             </label>
-            {this.renderValue(object[name], id, fullName)}
+            <div key={key} className={"ExpanderContent"}>
+              {this.renderValue(object[name], id, fullName)}
+            </div>
           </div>
         );
       }
@@ -116,7 +118,7 @@ export class PropertyGrid extends Component<
         return this.renderRows(object, fullName);
     }
   }
-  
+
   setObject(fullName: string, value: string | boolean | number) {
     this.setState((state: PropertyGridState) => {
       let object: any = state;
