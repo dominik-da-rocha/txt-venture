@@ -73,6 +73,7 @@
 }
 
 .PropertyGrid .Value > .ExpanderContent {
+  display: block;
   width: 70%;
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
@@ -80,8 +81,9 @@
 
 .PropertyGrid .Value > .ExpanderContent > input[type="text"].Editor,
 .PropertyGrid .Value > .ExpanderContent > input[type="number"].Editor,
-.PropertyGrid .Value > .ExpanderContent > input[type="checkbox"].Editor {
-  width: 98%;
+.PropertyGrid .Value > .ExpanderContent > input[type="checkbox"].Editor {    
+  left: 0.5rem;
+  right: 0.5rem;
 }
 
 .PropertyGrid .Object > .Caption,

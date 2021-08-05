@@ -1,14 +1,14 @@
 import { loremIpsum } from "./Lorem";
 
-export interface TxtObject {
-  name: string;
+export interface TxtNamed {  
+  name: string;  
 }
 
-export interface TxtScene extends TxtObject {
+export interface TxtScene extends TxtNamed {
   content: string;
 }
 
-export interface TxtAction extends TxtObject {
+export interface TxtAction extends TxtNamed {
   isEnabled: boolean;
 }
 
